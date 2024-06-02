@@ -1,0 +1,7 @@
+.venv
+*.pdf
+*.index
+*.pptx
+*.db
+RAG_CHATBOT_LAMA
+.env

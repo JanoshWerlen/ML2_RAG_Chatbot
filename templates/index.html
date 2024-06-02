@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple QA Interface</title>
+</head>
+<body>
+    <h1>Simple QA Interface</h1>flask
+    <form method="post">
+        <label for="query">Enter your query:</label>
+        <input type="text" id="query" name="query" required>
+        
+        <label for="document_type">Select document type:</label>
+        <select id="document_type" name="document_type" required>
+            <option value="PR">PR</option>
+            <option value="ARG">ARG</option>
+            
+        </select>
+        
+        <button type="submit">Submit</button>
+    </form>
+    
+    {% if query %}
+        <h2>Your Query:</h2>
+        <p>{{ query }}</p>
+        <h2>Result:</h2>
+        <p>{{ result }}</p>
+
+       
+        <h2>Source:</h2>
+        <p>{{ source_documents }}</p>
+         <!--
+        <h2>Page:</h2>
+        <p>{{ source_documents[0].metadata.page }}</p>
+        -->
+        
+    {% endif %}
+</body>
+</html>

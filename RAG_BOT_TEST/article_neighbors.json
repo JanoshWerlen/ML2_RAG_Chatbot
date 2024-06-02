@@ -1,0 +1,4796 @@
+[
+    {
+        "Article ID": 0,
+        "Top Neighbors": [
+            {
+                "Article ID": 197,
+                "Distance": 0.7082563638687134
+            },
+            {
+                "Article ID": 195,
+                "Distance": 0.7370226383209229
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.7474175691604614
+            }
+        ]
+    },
+    {
+        "Article ID": 1,
+        "Top Neighbors": [
+            {
+                "Article ID": 195,
+                "Distance": 0.6475432515144348
+            },
+            {
+                "Article ID": 64,
+                "Distance": 0.7130694389343262
+            },
+            {
+                "Article ID": 94,
+                "Distance": 0.84360671043396
+            }
+        ]
+    },
+    {
+        "Article ID": 2,
+        "Top Neighbors": [
+            {
+                "Article ID": 197,
+                "Distance": 0.7423012256622314
+            },
+            {
+                "Article ID": 0,
+                "Distance": 0.8299798369407654
+            },
+            {
+                "Article ID": 233,
+                "Distance": 0.8578969836235046
+            }
+        ]
+    },
+    {
+        "Article ID": 3,
+        "Top Neighbors": [
+            {
+                "Article ID": 5,
+                "Distance": 0.7818580269813538
+            },
+            {
+                "Article ID": 96,
+                "Distance": 0.8203154802322388
+            },
+            {
+                "Article ID": 7,
+                "Distance": 0.8447535037994385
+            }
+        ]
+    },
+    {
+        "Article ID": 4,
+        "Top Neighbors": [
+            {
+                "Article ID": 158,
+                "Distance": 0.48948875069618225
+            },
+            {
+                "Article ID": 129,
+                "Distance": 0.7987886667251587
+            },
+            {
+                "Article ID": 159,
+                "Distance": 0.8644427061080933
+            }
+        ]
+    },
+    {
+        "Article ID": 5,
+        "Top Neighbors": [
+            {
+                "Article ID": 197,
+                "Distance": 0.614851176738739
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.6767165660858154
+            },
+            {
+                "Article ID": 15,
+                "Distance": 0.6906005144119263
+            }
+        ]
+    },
+    {
+        "Article ID": 6,
+        "Top Neighbors": [
+            {
+                "Article ID": 197,
+                "Distance": 0.6828471422195435
+            },
+            {
+                "Article ID": 10,
+                "Distance": 0.7394580841064453
+            },
+            {
+                "Article ID": 5,
+                "Distance": 0.7549094557762146
+            }
+        ]
+    },
+    {
+        "Article ID": 7,
+        "Top Neighbors": [
+            {
+                "Article ID": 5,
+                "Distance": 0.8006063103675842
+            },
+            {
+                "Article ID": 3,
+                "Distance": 0.8447535037994385
+            },
+            {
+                "Article ID": 9,
+                "Distance": 0.8875468969345093
+            }
+        ]
+    },
+    {
+        "Article ID": 8,
+        "Top Neighbors": [
+            {
+                "Article ID": 83,
+                "Distance": 0.584256649017334
+            },
+            {
+                "Article ID": 112,
+                "Distance": 0.6130499839782715
+            },
+            {
+                "Article ID": 9,
+                "Distance": 0.6501731276512146
+            }
+        ]
+    },
+    {
+        "Article ID": 9,
+        "Top Neighbors": [
+            {
+                "Article ID": 198,
+                "Distance": 0.4270436763763428
+            },
+            {
+                "Article ID": 56,
+                "Distance": 0.6316585540771484
+            },
+            {
+                "Article ID": 8,
+                "Distance": 0.6501731276512146
+            }
+        ]
+    },
+    {
+        "Article ID": 10,
+        "Top Neighbors": [
+            {
+                "Article ID": 270,
+                "Distance": 0.6739499568939209
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.6794877648353577
+            },
+            {
+                "Article ID": 197,
+                "Distance": 0.7166768312454224
+            }
+        ]
+    },
+    {
+        "Article ID": 11,
+        "Top Neighbors": [
+            {
+                "Article ID": 149,
+                "Distance": 0.7881760597229004
+            },
+            {
+                "Article ID": 182,
+                "Distance": 0.788406252861023
+            },
+            {
+                "Article ID": 198,
+                "Distance": 0.8041623830795288
+            }
+        ]
+    },
+    {
+        "Article ID": 12,
+        "Top Neighbors": [
+            {
+                "Article ID": 14,
+                "Distance": 0.6404751539230347
+            },
+            {
+                "Article ID": 13,
+                "Distance": 0.6957688331604004
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.7052991390228271
+            }
+        ]
+    },
+    {
+        "Article ID": 13,
+        "Top Neighbors": [
+            {
+                "Article ID": 14,
+                "Distance": 0.4174721837043762
+            },
+            {
+                "Article ID": 201,
+                "Distance": 0.58530193567276
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.6635240316390991
+            }
+        ]
+    },
+    {
+        "Article ID": 14,
+        "Top Neighbors": [
+            {
+                "Article ID": 13,
+                "Distance": 0.4174721837043762
+            },
+            {
+                "Article ID": 184,
+                "Distance": 0.428779274225235
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.4500683844089508
+            }
+        ]
+    },
+    {
+        "Article ID": 15,
+        "Top Neighbors": [
+            {
+                "Article ID": 5,
+                "Distance": 0.6906005144119263
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.7043591737747192
+            },
+            {
+                "Article ID": 203,
+                "Distance": 0.7260081768035889
+            }
+        ]
+    },
+    {
+        "Article ID": 16,
+        "Top Neighbors": [
+            {
+                "Article ID": 229,
+                "Distance": 0.7647151947021484
+            },
+            {
+                "Article ID": 38,
+                "Distance": 0.7819337844848633
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.7957801818847656
+            }
+        ]
+    },
+    {
+        "Article ID": 17,
+        "Top Neighbors": [
+            {
+                "Article ID": 19,
+                "Distance": 0.49378010630607605
+            },
+            {
+                "Article ID": 202,
+                "Distance": 0.6566258668899536
+            },
+            {
+                "Article ID": 48,
+                "Distance": 0.6953492760658264
+            }
+        ]
+    },
+    {
+        "Article ID": 18,
+        "Top Neighbors": [
+            {
+                "Article ID": 182,
+                "Distance": 0.46424710750579834
+            },
+            {
+                "Article ID": 279,
+                "Distance": 0.4703357219696045
+            },
+            {
+                "Article ID": 202,
+                "Distance": 0.7722945213317871
+            }
+        ]
+    },
+    {
+        "Article ID": 19,
+        "Top Neighbors": [
+            {
+                "Article ID": 17,
+                "Distance": 0.49378010630607605
+            },
+            {
+                "Article ID": 152,
+                "Distance": 0.6927470564842224
+            },
+            {
+                "Article ID": 202,
+                "Distance": 0.7330117225646973
+            }
+        ]
+    },
+    {
+        "Article ID": 20,
+        "Top Neighbors": [
+            {
+                "Article ID": 195,
+                "Distance": 0.8343595266342163
+            },
+            {
+                "Article ID": 203,
+                "Distance": 0.8697207570075989
+            },
+            {
+                "Article ID": 267,
+                "Distance": 0.9646838903427124
+            }
+        ]
+    },
+    {
+        "Article ID": 21,
+        "Top Neighbors": [
+            {
+                "Article ID": 28,
+                "Distance": 0.6940708160400391
+            },
+            {
+                "Article ID": 233,
+                "Distance": 0.7485975623130798
+            },
+            {
+                "Article ID": 206,
+                "Distance": 0.7714858055114746
+            }
+        ]
+    },
+    {
+        "Article ID": 22,
+        "Top Neighbors": [
+            {
+                "Article ID": 24,
+                "Distance": 0.35715168714523315
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.4455587863922119
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.5852996110916138
+            }
+        ]
+    },
+    {
+        "Article ID": 23,
+        "Top Neighbors": [
+            {
+                "Article ID": 24,
+                "Distance": 0.5583188533782959
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.6312962174415588
+            },
+            {
+                "Article ID": 196,
+                "Distance": 0.6695011854171753
+            }
+        ]
+    },
+    {
+        "Article ID": 24,
+        "Top Neighbors": [
+            {
+                "Article ID": 22,
+                "Distance": 0.35715168714523315
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.4500683844089508
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.49782875180244446
+            }
+        ]
+    },
+    {
+        "Article ID": 25,
+        "Top Neighbors": [
+            {
+                "Article ID": 206,
+                "Distance": 0.4954443871974945
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.49946993589401245
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.5802103281021118
+            }
+        ]
+    },
+    {
+        "Article ID": 26,
+        "Top Neighbors": [
+            {
+                "Article ID": 25,
+                "Distance": 0.6878378987312317
+            },
+            {
+                "Article ID": 206,
+                "Distance": 0.7245485782623291
+            },
+            {
+                "Article ID": 12,
+                "Distance": 0.7253228425979614
+            }
+        ]
+    },
+    {
+        "Article ID": 27,
+        "Top Neighbors": [
+            {
+                "Article ID": 64,
+                "Distance": 0.7524001598358154
+            },
+            {
+                "Article ID": 196,
+                "Distance": 0.8446854948997498
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.8473576307296753
+            }
+        ]
+    },
+    {
+        "Article ID": 28,
+        "Top Neighbors": [
+            {
+                "Article ID": 21,
+                "Distance": 0.6940708160400391
+            },
+            {
+                "Article ID": 204,
+                "Distance": 0.7678648233413696
+            },
+            {
+                "Article ID": 71,
+                "Distance": 0.7951245903968811
+            }
+        ]
+    },
+    {
+        "Article ID": 29,
+        "Top Neighbors": [
+            {
+                "Article ID": 210,
+                "Distance": 0.7687215209007263
+            },
+            {
+                "Article ID": 122,
+                "Distance": 0.8199572563171387
+            },
+            {
+                "Article ID": 208,
+                "Distance": 0.8212409615516663
+            }
+        ]
+    },
+    {
+        "Article ID": 30,
+        "Top Neighbors": [
+            {
+                "Article ID": 215,
+                "Distance": 0.5881302356719971
+            },
+            {
+                "Article ID": 229,
+                "Distance": 0.7008265256881714
+            },
+            {
+                "Article ID": 209,
+                "Distance": 0.7393004298210144
+            }
+        ]
+    },
+    {
+        "Article ID": 31,
+        "Top Neighbors": [
+            {
+                "Article ID": 211,
+                "Distance": 0.4946097433567047
+            },
+            {
+                "Article ID": 222,
+                "Distance": 0.5152371525764465
+            },
+            {
+                "Article ID": 210,
+                "Distance": 0.5155273675918579
+            }
+        ]
+    },
+    {
+        "Article ID": 32,
+        "Top Neighbors": [
+            {
+                "Article ID": 213,
+                "Distance": 0.751662015914917
+            },
+            {
+                "Article ID": 31,
+                "Distance": 0.7973057627677917
+            },
+            {
+                "Article ID": 209,
+                "Distance": 0.8157612681388855
+            }
+        ]
+    },
+    {
+        "Article ID": 33,
+        "Top Neighbors": [
+            {
+                "Article ID": 214,
+                "Distance": 0.6081493496894836
+            },
+            {
+                "Article ID": 225,
+                "Distance": 0.6110494136810303
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.6159974932670593
+            }
+        ]
+    },
+    {
+        "Article ID": 34,
+        "Top Neighbors": [
+            {
+                "Article ID": 212,
+                "Distance": 0.20442774891853333
+            },
+            {
+                "Article ID": 210,
+                "Distance": 0.6274311542510986
+            },
+            {
+                "Article ID": 31,
+                "Distance": 0.647808313369751
+            }
+        ]
+    },
+    {
+        "Article ID": 35,
+        "Top Neighbors": [
+            {
+                "Article ID": 36,
+                "Distance": 0.5447995662689209
+            },
+            {
+                "Article ID": 218,
+                "Distance": 0.5807647705078125
+            },
+            {
+                "Article ID": 219,
+                "Distance": 0.5863519310951233
+            }
+        ]
+    },
+    {
+        "Article ID": 36,
+        "Top Neighbors": [
+            {
+                "Article ID": 219,
+                "Distance": 0.35611575841903687
+            },
+            {
+                "Article ID": 218,
+                "Distance": 0.3791641891002655
+            },
+            {
+                "Article ID": 35,
+                "Distance": 0.5447995662689209
+            }
+        ]
+    },
+    {
+        "Article ID": 37,
+        "Top Neighbors": [
+            {
+                "Article ID": 39,
+                "Distance": 0.3843182325363159
+            },
+            {
+                "Article ID": 224,
+                "Distance": 0.40414881706237793
+            },
+            {
+                "Article ID": 222,
+                "Distance": 0.49277639389038086
+            }
+        ]
+    },
+    {
+        "Article ID": 38,
+        "Top Neighbors": [
+            {
+                "Article ID": 227,
+                "Distance": 0.7493321895599365
+            },
+            {
+                "Article ID": 16,
+                "Distance": 0.7819337844848633
+            },
+            {
+                "Article ID": 11,
+                "Distance": 0.8988542556762695
+            }
+        ]
+    },
+    {
+        "Article ID": 39,
+        "Top Neighbors": [
+            {
+                "Article ID": 37,
+                "Distance": 0.3843182325363159
+            },
+            {
+                "Article ID": 189,
+                "Distance": 0.535015344619751
+            },
+            {
+                "Article ID": 224,
+                "Distance": 0.5820359587669373
+            }
+        ]
+    },
+    {
+        "Article ID": 40,
+        "Top Neighbors": [
+            {
+                "Article ID": 39,
+                "Distance": 0.6967350840568542
+            },
+            {
+                "Article ID": 189,
+                "Distance": 0.7342078685760498
+            },
+            {
+                "Article ID": 135,
+                "Distance": 0.7955886125564575
+            }
+        ]
+    },
+    {
+        "Article ID": 41,
+        "Top Neighbors": [
+            {
+                "Article ID": 229,
+                "Distance": 0.4021231234073639
+            },
+            {
+                "Article ID": 231,
+                "Distance": 0.7134782075881958
+            },
+            {
+                "Article ID": 232,
+                "Distance": 0.7410427331924438
+            }
+        ]
+    },
+    {
+        "Article ID": 42,
+        "Top Neighbors": [
+            {
+                "Article ID": 230,
+                "Distance": 0.32844823598861694
+            },
+            {
+                "Article ID": 111,
+                "Distance": 0.5549321174621582
+            },
+            {
+                "Article ID": 82,
+                "Distance": 0.5752115249633789
+            }
+        ]
+    },
+    {
+        "Article ID": 43,
+        "Top Neighbors": [
+            {
+                "Article ID": 235,
+                "Distance": 0.6062804460525513
+            },
+            {
+                "Article ID": 232,
+                "Distance": 0.7890948057174683
+            },
+            {
+                "Article ID": 231,
+                "Distance": 0.8265230655670166
+            }
+        ]
+    },
+    {
+        "Article ID": 44,
+        "Top Neighbors": [
+            {
+                "Article ID": 45,
+                "Distance": 0.4679303467273712
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.5984486937522888
+            },
+            {
+                "Article ID": 51,
+                "Distance": 0.6014444231987
+            }
+        ]
+    },
+    {
+        "Article ID": 45,
+        "Top Neighbors": [
+            {
+                "Article ID": 51,
+                "Distance": 0.29883283376693726
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.46432721614837646
+            },
+            {
+                "Article ID": 44,
+                "Distance": 0.4679303467273712
+            }
+        ]
+    },
+    {
+        "Article ID": 46,
+        "Top Neighbors": [
+            {
+                "Article ID": 45,
+                "Distance": 0.6496372818946838
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.6689265966415405
+            },
+            {
+                "Article ID": 50,
+                "Distance": 0.6991605758666992
+            }
+        ]
+    },
+    {
+        "Article ID": 47,
+        "Top Neighbors": [
+            {
+                "Article ID": 45,
+                "Distance": 0.46432721614837646
+            },
+            {
+                "Article ID": 54,
+                "Distance": 0.5715955495834351
+            },
+            {
+                "Article ID": 44,
+                "Distance": 0.5984486937522888
+            }
+        ]
+    },
+    {
+        "Article ID": 48,
+        "Top Neighbors": [
+            {
+                "Article ID": 49,
+                "Distance": 0.4178677201271057
+            },
+            {
+                "Article ID": 240,
+                "Distance": 0.5009405612945557
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.5188875794410706
+            }
+        ]
+    },
+    {
+        "Article ID": 49,
+        "Top Neighbors": [
+            {
+                "Article ID": 48,
+                "Distance": 0.4178677201271057
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.586359977722168
+            },
+            {
+                "Article ID": 240,
+                "Distance": 0.6833070516586304
+            }
+        ]
+    },
+    {
+        "Article ID": 50,
+        "Top Neighbors": [
+            {
+                "Article ID": 44,
+                "Distance": 0.6604115962982178
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.6609861850738525
+            },
+            {
+                "Article ID": 238,
+                "Distance": 0.6640366911888123
+            }
+        ]
+    },
+    {
+        "Article ID": 51,
+        "Top Neighbors": [
+            {
+                "Article ID": 45,
+                "Distance": 0.29883283376693726
+            },
+            {
+                "Article ID": 239,
+                "Distance": 0.36522284150123596
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.49212217330932617
+            }
+        ]
+    },
+    {
+        "Article ID": 52,
+        "Top Neighbors": [
+            {
+                "Article ID": 45,
+                "Distance": 0.5700100660324097
+            },
+            {
+                "Article ID": 51,
+                "Distance": 0.635312557220459
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.7194768190383911
+            }
+        ]
+    },
+    {
+        "Article ID": 53,
+        "Top Neighbors": [
+            {
+                "Article ID": 54,
+                "Distance": 0.3694220781326294
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.5983030796051025
+            },
+            {
+                "Article ID": 238,
+                "Distance": 0.685502827167511
+            }
+        ]
+    },
+    {
+        "Article ID": 54,
+        "Top Neighbors": [
+            {
+                "Article ID": 53,
+                "Distance": 0.3694220781326294
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.5715955495834351
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.635400652885437
+            }
+        ]
+    },
+    {
+        "Article ID": 55,
+        "Top Neighbors": [
+            {
+                "Article ID": 48,
+                "Distance": 0.6406468152999878
+            },
+            {
+                "Article ID": 54,
+                "Distance": 0.6759920120239258
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.7054418325424194
+            }
+        ]
+    },
+    {
+        "Article ID": 56,
+        "Top Neighbors": [
+            {
+                "Article ID": 198,
+                "Distance": 0.45466822385787964
+            },
+            {
+                "Article ID": 9,
+                "Distance": 0.6316585540771484
+            },
+            {
+                "Article ID": 45,
+                "Distance": 0.6558442115783691
+            }
+        ]
+    },
+    {
+        "Article ID": 57,
+        "Top Neighbors": [
+            {
+                "Article ID": 246,
+                "Distance": 0.5272790193557739
+            },
+            {
+                "Article ID": 247,
+                "Distance": 0.6538946628570557
+            },
+            {
+                "Article ID": 66,
+                "Distance": 0.66483473777771
+            }
+        ]
+    },
+    {
+        "Article ID": 58,
+        "Top Neighbors": [
+            {
+                "Article ID": 72,
+                "Distance": 0.5851767063140869
+            },
+            {
+                "Article ID": 70,
+                "Distance": 0.6209951639175415
+            },
+            {
+                "Article ID": 59,
+                "Distance": 0.6538751125335693
+            }
+        ]
+    },
+    {
+        "Article ID": 59,
+        "Top Neighbors": [
+            {
+                "Article ID": 118,
+                "Distance": 0.4894507825374603
+            },
+            {
+                "Article ID": 73,
+                "Distance": 0.5793164968490601
+            },
+            {
+                "Article ID": 75,
+                "Distance": 0.6003931760787964
+            }
+        ]
+    },
+    {
+        "Article ID": 60,
+        "Top Neighbors": [
+            {
+                "Article ID": 73,
+                "Distance": 0.49568015336990356
+            },
+            {
+                "Article ID": 119,
+                "Distance": 0.6031006574630737
+            },
+            {
+                "Article ID": 190,
+                "Distance": 0.6336874961853027
+            }
+        ]
+    },
+    {
+        "Article ID": 61,
+        "Top Neighbors": [
+            {
+                "Article ID": 243,
+                "Distance": 0.6529759168624878
+            },
+            {
+                "Article ID": 245,
+                "Distance": 0.7694060802459717
+            },
+            {
+                "Article ID": 244,
+                "Distance": 0.7801719903945923
+            }
+        ]
+    },
+    {
+        "Article ID": 62,
+        "Top Neighbors": [
+            {
+                "Article ID": 247,
+                "Distance": 0.45804697275161743
+            },
+            {
+                "Article ID": 248,
+                "Distance": 0.7565060257911682
+            },
+            {
+                "Article ID": 242,
+                "Distance": 0.7641706466674805
+            }
+        ]
+    },
+    {
+        "Article ID": 63,
+        "Top Neighbors": [
+            {
+                "Article ID": 187,
+                "Distance": 0.4268045425415039
+            },
+            {
+                "Article ID": 248,
+                "Distance": 0.5175204277038574
+            },
+            {
+                "Article ID": 68,
+                "Distance": 0.5233645439147949
+            }
+        ]
+    },
+    {
+        "Article ID": 64,
+        "Top Neighbors": [
+            {
+                "Article ID": 63,
+                "Distance": 0.5470152497291565
+            },
+            {
+                "Article ID": 246,
+                "Distance": 0.5584902763366699
+            },
+            {
+                "Article ID": 251,
+                "Distance": 0.6223649978637695
+            }
+        ]
+    },
+    {
+        "Article ID": 65,
+        "Top Neighbors": [
+            {
+                "Article ID": 248,
+                "Distance": 0.5893868803977966
+            },
+            {
+                "Article ID": 67,
+                "Distance": 0.6017561554908752
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.6613996028900146
+            }
+        ]
+    },
+    {
+        "Article ID": 66,
+        "Top Neighbors": [
+            {
+                "Article ID": 251,
+                "Distance": 0.5838505625724792
+            },
+            {
+                "Article ID": 67,
+                "Distance": 0.6330078840255737
+            },
+            {
+                "Article ID": 57,
+                "Distance": 0.66483473777771
+            }
+        ]
+    },
+    {
+        "Article ID": 67,
+        "Top Neighbors": [
+            {
+                "Article ID": 248,
+                "Distance": 0.4674451947212219
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.5296552181243896
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.5589364767074585
+            }
+        ]
+    },
+    {
+        "Article ID": 68,
+        "Top Neighbors": [
+            {
+                "Article ID": 252,
+                "Distance": 0.3096584677696228
+            },
+            {
+                "Article ID": 248,
+                "Distance": 0.44693225622177124
+            },
+            {
+                "Article ID": 247,
+                "Distance": 0.46723267436027527
+            }
+        ]
+    },
+    {
+        "Article ID": 69,
+        "Top Neighbors": [
+            {
+                "Article ID": 254,
+                "Distance": 0.5777450203895569
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.6868107318878174
+            },
+            {
+                "Article ID": 253,
+                "Distance": 0.694797933101654
+            }
+        ]
+    },
+    {
+        "Article ID": 70,
+        "Top Neighbors": [
+            {
+                "Article ID": 72,
+                "Distance": 0.5933440923690796
+            },
+            {
+                "Article ID": 58,
+                "Distance": 0.6209951639175415
+            },
+            {
+                "Article ID": 59,
+                "Distance": 0.6604219675064087
+            }
+        ]
+    },
+    {
+        "Article ID": 71,
+        "Top Neighbors": [
+            {
+                "Article ID": 72,
+                "Distance": 0.5177953839302063
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.6621834635734558
+            },
+            {
+                "Article ID": 70,
+                "Distance": 0.6752467751502991
+            }
+        ]
+    },
+    {
+        "Article ID": 72,
+        "Top Neighbors": [
+            {
+                "Article ID": 71,
+                "Distance": 0.5177953839302063
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.5374771356582642
+            },
+            {
+                "Article ID": 95,
+                "Distance": 0.542987048625946
+            }
+        ]
+    },
+    {
+        "Article ID": 73,
+        "Top Neighbors": [
+            {
+                "Article ID": 175,
+                "Distance": 0.46916663646698
+            },
+            {
+                "Article ID": 117,
+                "Distance": 0.4704652726650238
+            },
+            {
+                "Article ID": 60,
+                "Distance": 0.49568015336990356
+            }
+        ]
+    },
+    {
+        "Article ID": 74,
+        "Top Neighbors": [
+            {
+                "Article ID": 162,
+                "Distance": 0.508183479309082
+            },
+            {
+                "Article ID": 73,
+                "Distance": 0.5414108037948608
+            },
+            {
+                "Article ID": 163,
+                "Distance": 0.585720419883728
+            }
+        ]
+    },
+    {
+        "Article ID": 75,
+        "Top Neighbors": [
+            {
+                "Article ID": 72,
+                "Distance": 0.5600286722183228
+            },
+            {
+                "Article ID": 117,
+                "Distance": 0.5646026134490967
+            },
+            {
+                "Article ID": 73,
+                "Distance": 0.5956940054893494
+            }
+        ]
+    },
+    {
+        "Article ID": 76,
+        "Top Neighbors": [
+            {
+                "Article ID": 59,
+                "Distance": 0.8306922912597656
+            },
+            {
+                "Article ID": 118,
+                "Distance": 0.8372231721878052
+            },
+            {
+                "Article ID": 157,
+                "Distance": 0.8842160105705261
+            }
+        ]
+    },
+    {
+        "Article ID": 77,
+        "Top Neighbors": [
+            {
+                "Article ID": 80,
+                "Distance": 0.657629668712616
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.6640106439590454
+            },
+            {
+                "Article ID": 79,
+                "Distance": 0.6806982159614563
+            }
+        ]
+    },
+    {
+        "Article ID": 78,
+        "Top Neighbors": [
+            {
+                "Article ID": 121,
+                "Distance": 0.7080262899398804
+            },
+            {
+                "Article ID": 119,
+                "Distance": 0.7397728562355042
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.7521997690200806
+            }
+        ]
+    },
+    {
+        "Article ID": 79,
+        "Top Neighbors": [
+            {
+                "Article ID": 84,
+                "Distance": 0.4412090480327606
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.45241737365722656
+            },
+            {
+                "Article ID": 80,
+                "Distance": 0.5670053958892822
+            }
+        ]
+    },
+    {
+        "Article ID": 80,
+        "Top Neighbors": [
+            {
+                "Article ID": 79,
+                "Distance": 0.5670053958892822
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.6426616907119751
+            },
+            {
+                "Article ID": 77,
+                "Distance": 0.657629668712616
+            }
+        ]
+    },
+    {
+        "Article ID": 81,
+        "Top Neighbors": [
+            {
+                "Article ID": 79,
+                "Distance": 0.7541502714157104
+            },
+            {
+                "Article ID": 85,
+                "Distance": 0.7896164655685425
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.7988527417182922
+            }
+        ]
+    },
+    {
+        "Article ID": 82,
+        "Top Neighbors": [
+            {
+                "Article ID": 83,
+                "Distance": 0.4789685010910034
+            },
+            {
+                "Article ID": 37,
+                "Distance": 0.555620551109314
+            },
+            {
+                "Article ID": 174,
+                "Distance": 0.573136568069458
+            }
+        ]
+    },
+    {
+        "Article ID": 83,
+        "Top Neighbors": [
+            {
+                "Article ID": 82,
+                "Distance": 0.4789685010910034
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.5539143085479736
+            },
+            {
+                "Article ID": 85,
+                "Distance": 0.5559849143028259
+            }
+        ]
+    },
+    {
+        "Article ID": 84,
+        "Top Neighbors": [
+            {
+                "Article ID": 256,
+                "Distance": 0.35028427839279175
+            },
+            {
+                "Article ID": 79,
+                "Distance": 0.4412090480327606
+            },
+            {
+                "Article ID": 85,
+                "Distance": 0.5252755880355835
+            }
+        ]
+    },
+    {
+        "Article ID": 85,
+        "Top Neighbors": [
+            {
+                "Article ID": 256,
+                "Distance": 0.4553064703941345
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.5252755880355835
+            },
+            {
+                "Article ID": 83,
+                "Distance": 0.5559849143028259
+            }
+        ]
+    },
+    {
+        "Article ID": 86,
+        "Top Neighbors": [
+            {
+                "Article ID": 77,
+                "Distance": 0.7495431900024414
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.7583045959472656
+            },
+            {
+                "Article ID": 229,
+                "Distance": 0.7728437185287476
+            }
+        ]
+    },
+    {
+        "Article ID": 87,
+        "Top Neighbors": [
+            {
+                "Article ID": 256,
+                "Distance": 0.48101890087127686
+            },
+            {
+                "Article ID": 85,
+                "Distance": 0.5563773512840271
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.6282209157943726
+            }
+        ]
+    },
+    {
+        "Article ID": 88,
+        "Top Neighbors": [
+            {
+                "Article ID": 257,
+                "Distance": 0.39993005990982056
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.39997023344039917
+            },
+            {
+                "Article ID": 90,
+                "Distance": 0.407650887966156
+            }
+        ]
+    },
+    {
+        "Article ID": 89,
+        "Top Neighbors": [
+            {
+                "Article ID": 92,
+                "Distance": 0.624645471572876
+            },
+            {
+                "Article ID": 90,
+                "Distance": 0.6365196704864502
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.6691370010375977
+            }
+        ]
+    },
+    {
+        "Article ID": 90,
+        "Top Neighbors": [
+            {
+                "Article ID": 257,
+                "Distance": 0.2924306392669678
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.3994094133377075
+            },
+            {
+                "Article ID": 88,
+                "Distance": 0.407650887966156
+            }
+        ]
+    },
+    {
+        "Article ID": 91,
+        "Top Neighbors": [
+            {
+                "Article ID": 90,
+                "Distance": 0.3994094133377075
+            },
+            {
+                "Article ID": 88,
+                "Distance": 0.39997023344039917
+            },
+            {
+                "Article ID": 257,
+                "Distance": 0.41271746158599854
+            }
+        ]
+    },
+    {
+        "Article ID": 92,
+        "Top Neighbors": [
+            {
+                "Article ID": 90,
+                "Distance": 0.5659716129302979
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.5794596672058105
+            },
+            {
+                "Article ID": 88,
+                "Distance": 0.6111405491828918
+            }
+        ]
+    },
+    {
+        "Article ID": 93,
+        "Top Neighbors": [
+            {
+                "Article ID": 94,
+                "Distance": 0.2908879816532135
+            },
+            {
+                "Article ID": 258,
+                "Distance": 0.650182843208313
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.7089120745658875
+            }
+        ]
+    },
+    {
+        "Article ID": 94,
+        "Top Neighbors": [
+            {
+                "Article ID": 93,
+                "Distance": 0.2908879816532135
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.5659356117248535
+            },
+            {
+                "Article ID": 258,
+                "Distance": 0.5883783102035522
+            }
+        ]
+    },
+    {
+        "Article ID": 95,
+        "Top Neighbors": [
+            {
+                "Article ID": 259,
+                "Distance": 0.46641209721565247
+            },
+            {
+                "Article ID": 72,
+                "Distance": 0.542987048625946
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.5812658667564392
+            }
+        ]
+    },
+    {
+        "Article ID": 96,
+        "Top Neighbors": [
+            {
+                "Article ID": 263,
+                "Distance": 0.44389474391937256
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.6339625120162964
+            },
+            {
+                "Article ID": 184,
+                "Distance": 0.6365293264389038
+            }
+        ]
+    },
+    {
+        "Article ID": 97,
+        "Top Neighbors": [
+            {
+                "Article ID": 105,
+                "Distance": 0.6720579862594604
+            },
+            {
+                "Article ID": 111,
+                "Distance": 0.7238473892211914
+            },
+            {
+                "Article ID": 42,
+                "Distance": 0.7436899542808533
+            }
+        ]
+    },
+    {
+        "Article ID": 98,
+        "Top Neighbors": [
+            {
+                "Article ID": 104,
+                "Distance": 0.8344999551773071
+            },
+            {
+                "Article ID": 102,
+                "Distance": 0.8575091361999512
+            },
+            {
+                "Article ID": 99,
+                "Distance": 0.977292537689209
+            }
+        ]
+    },
+    {
+        "Article ID": 99,
+        "Top Neighbors": [
+            {
+                "Article ID": 109,
+                "Distance": 0.6077200770378113
+            },
+            {
+                "Article ID": 106,
+                "Distance": 0.6711313724517822
+            },
+            {
+                "Article ID": 104,
+                "Distance": 0.8150286674499512
+            }
+        ]
+    },
+    {
+        "Article ID": 100,
+        "Top Neighbors": [
+            {
+                "Article ID": 103,
+                "Distance": 0.5492918491363525
+            },
+            {
+                "Article ID": 108,
+                "Distance": 0.5774807333946228
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.7058553695678711
+            }
+        ]
+    },
+    {
+        "Article ID": 101,
+        "Top Neighbors": [
+            {
+                "Article ID": 103,
+                "Distance": 0.7984394431114197
+            },
+            {
+                "Article ID": 178,
+                "Distance": 0.8546862602233887
+            },
+            {
+                "Article ID": 100,
+                "Distance": 0.879351794719696
+            }
+        ]
+    },
+    {
+        "Article ID": 102,
+        "Top Neighbors": [
+            {
+                "Article ID": 104,
+                "Distance": 0.791357696056366
+            },
+            {
+                "Article ID": 100,
+                "Distance": 0.857288122177124
+            },
+            {
+                "Article ID": 98,
+                "Distance": 0.8575091361999512
+            }
+        ]
+    },
+    {
+        "Article ID": 103,
+        "Top Neighbors": [
+            {
+                "Article ID": 108,
+                "Distance": 0.4247659742832184
+            },
+            {
+                "Article ID": 100,
+                "Distance": 0.5492918491363525
+            },
+            {
+                "Article ID": 101,
+                "Distance": 0.7984394431114197
+            }
+        ]
+    },
+    {
+        "Article ID": 104,
+        "Top Neighbors": [
+            {
+                "Article ID": 106,
+                "Distance": 0.7715537548065186
+            },
+            {
+                "Article ID": 102,
+                "Distance": 0.791357696056366
+            },
+            {
+                "Article ID": 140,
+                "Distance": 0.8045294880867004
+            }
+        ]
+    },
+    {
+        "Article ID": 105,
+        "Top Neighbors": [
+            {
+                "Article ID": 97,
+                "Distance": 0.6720579862594604
+            },
+            {
+                "Article ID": 106,
+                "Distance": 0.7204158902168274
+            },
+            {
+                "Article ID": 133,
+                "Distance": 0.7947527766227722
+            }
+        ]
+    },
+    {
+        "Article ID": 106,
+        "Top Neighbors": [
+            {
+                "Article ID": 109,
+                "Distance": 0.5328097939491272
+            },
+            {
+                "Article ID": 99,
+                "Distance": 0.6711313724517822
+            },
+            {
+                "Article ID": 173,
+                "Distance": 0.671218991279602
+            }
+        ]
+    },
+    {
+        "Article ID": 107,
+        "Top Neighbors": [
+            {
+                "Article ID": 108,
+                "Distance": 0.7920645475387573
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.8848334550857544
+            },
+            {
+                "Article ID": 154,
+                "Distance": 0.9003997445106506
+            }
+        ]
+    },
+    {
+        "Article ID": 108,
+        "Top Neighbors": [
+            {
+                "Article ID": 103,
+                "Distance": 0.4247659742832184
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.5378511548042297
+            },
+            {
+                "Article ID": 100,
+                "Distance": 0.5774807333946228
+            }
+        ]
+    },
+    {
+        "Article ID": 109,
+        "Top Neighbors": [
+            {
+                "Article ID": 106,
+                "Distance": 0.5328097939491272
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.5566309690475464
+            },
+            {
+                "Article ID": 99,
+                "Distance": 0.6077200770378113
+            }
+        ]
+    },
+    {
+        "Article ID": 110,
+        "Top Neighbors": [
+            {
+                "Article ID": 97,
+                "Distance": 0.7518652677536011
+            },
+            {
+                "Article ID": 111,
+                "Distance": 0.7558704614639282
+            },
+            {
+                "Article ID": 42,
+                "Distance": 0.7722933292388916
+            }
+        ]
+    },
+    {
+        "Article ID": 111,
+        "Top Neighbors": [
+            {
+                "Article ID": 42,
+                "Distance": 0.5549321174621582
+            },
+            {
+                "Article ID": 264,
+                "Distance": 0.6763145923614502
+            },
+            {
+                "Article ID": 97,
+                "Distance": 0.7238473892211914
+            }
+        ]
+    },
+    {
+        "Article ID": 112,
+        "Top Neighbors": [
+            {
+                "Article ID": 8,
+                "Distance": 0.6130499839782715
+            },
+            {
+                "Article ID": 261,
+                "Distance": 0.6443811655044556
+            },
+            {
+                "Article ID": 82,
+                "Distance": 0.6553652286529541
+            }
+        ]
+    },
+    {
+        "Article ID": 113,
+        "Top Neighbors": [
+            {
+                "Article ID": 190,
+                "Distance": 0.45395922660827637
+            },
+            {
+                "Article ID": 115,
+                "Distance": 0.5536781549453735
+            },
+            {
+                "Article ID": 117,
+                "Distance": 0.5815421342849731
+            }
+        ]
+    },
+    {
+        "Article ID": 114,
+        "Top Neighbors": [
+            {
+                "Article ID": 157,
+                "Distance": 0.5251424908638
+            },
+            {
+                "Article ID": 118,
+                "Distance": 0.5344024896621704
+            },
+            {
+                "Article ID": 75,
+                "Distance": 0.6769607067108154
+            }
+        ]
+    },
+    {
+        "Article ID": 115,
+        "Top Neighbors": [
+            {
+                "Article ID": 113,
+                "Distance": 0.5536781549453735
+            },
+            {
+                "Article ID": 223,
+                "Distance": 0.6498714685440063
+            },
+            {
+                "Article ID": 120,
+                "Distance": 0.6916772723197937
+            }
+        ]
+    },
+    {
+        "Article ID": 116,
+        "Top Neighbors": [
+            {
+                "Article ID": 113,
+                "Distance": 0.6657581329345703
+            },
+            {
+                "Article ID": 129,
+                "Distance": 0.6949514746665955
+            },
+            {
+                "Article ID": 115,
+                "Distance": 0.7090643644332886
+            }
+        ]
+    },
+    {
+        "Article ID": 117,
+        "Top Neighbors": [
+            {
+                "Article ID": 73,
+                "Distance": 0.4704652726650238
+            },
+            {
+                "Article ID": 119,
+                "Distance": 0.47998589277267456
+            },
+            {
+                "Article ID": 132,
+                "Distance": 0.5233072638511658
+            }
+        ]
+    },
+    {
+        "Article ID": 118,
+        "Top Neighbors": [
+            {
+                "Article ID": 59,
+                "Distance": 0.4894507825374603
+            },
+            {
+                "Article ID": 114,
+                "Distance": 0.5344024896621704
+            },
+            {
+                "Article ID": 157,
+                "Distance": 0.5413259267807007
+            }
+        ]
+    },
+    {
+        "Article ID": 119,
+        "Top Neighbors": [
+            {
+                "Article ID": 120,
+                "Distance": 0.3419725000858307
+            },
+            {
+                "Article ID": 127,
+                "Distance": 0.46904951333999634
+            },
+            {
+                "Article ID": 117,
+                "Distance": 0.47998589277267456
+            }
+        ]
+    },
+    {
+        "Article ID": 120,
+        "Top Neighbors": [
+            {
+                "Article ID": 119,
+                "Distance": 0.3419725000858307
+            },
+            {
+                "Article ID": 265,
+                "Distance": 0.48768651485443115
+            },
+            {
+                "Article ID": 169,
+                "Distance": 0.5417335629463196
+            }
+        ]
+    },
+    {
+        "Article ID": 121,
+        "Top Neighbors": [
+            {
+                "Article ID": 124,
+                "Distance": 0.46681296825408936
+            },
+            {
+                "Article ID": 122,
+                "Distance": 0.5423423051834106
+            },
+            {
+                "Article ID": 134,
+                "Distance": 0.5766931176185608
+            }
+        ]
+    },
+    {
+        "Article ID": 122,
+        "Top Neighbors": [
+            {
+                "Article ID": 121,
+                "Distance": 0.5423423051834106
+            },
+            {
+                "Article ID": 208,
+                "Distance": 0.5913909673690796
+            },
+            {
+                "Article ID": 210,
+                "Distance": 0.6316434741020203
+            }
+        ]
+    },
+    {
+        "Article ID": 123,
+        "Top Neighbors": [
+            {
+                "Article ID": 124,
+                "Distance": 0.5426852703094482
+            },
+            {
+                "Article ID": 121,
+                "Distance": 0.6391804814338684
+            },
+            {
+                "Article ID": 170,
+                "Distance": 0.6740418672561646
+            }
+        ]
+    },
+    {
+        "Article ID": 124,
+        "Top Neighbors": [
+            {
+                "Article ID": 121,
+                "Distance": 0.46681296825408936
+            },
+            {
+                "Article ID": 123,
+                "Distance": 0.5426852703094482
+            },
+            {
+                "Article ID": 129,
+                "Distance": 0.6816824674606323
+            }
+        ]
+    },
+    {
+        "Article ID": 125,
+        "Top Neighbors": [
+            {
+                "Article ID": 175,
+                "Distance": 0.572905957698822
+            },
+            {
+                "Article ID": 133,
+                "Distance": 0.5861767530441284
+            },
+            {
+                "Article ID": 131,
+                "Distance": 0.6066944599151611
+            }
+        ]
+    },
+    {
+        "Article ID": 126,
+        "Top Neighbors": [
+            {
+                "Article ID": 256,
+                "Distance": 0.6236772537231445
+            },
+            {
+                "Article ID": 262,
+                "Distance": 0.6414161920547485
+            },
+            {
+                "Article ID": 265,
+                "Distance": 0.673468828201294
+            }
+        ]
+    },
+    {
+        "Article ID": 127,
+        "Top Neighbors": [
+            {
+                "Article ID": 119,
+                "Distance": 0.46904951333999634
+            },
+            {
+                "Article ID": 133,
+                "Distance": 0.4953906536102295
+            },
+            {
+                "Article ID": 129,
+                "Distance": 0.5334999561309814
+            }
+        ]
+    },
+    {
+        "Article ID": 128,
+        "Top Neighbors": [
+            {
+                "Article ID": 129,
+                "Distance": 0.8708449602127075
+            },
+            {
+                "Article ID": 134,
+                "Distance": 0.9628891944885254
+            },
+            {
+                "Article ID": 130,
+                "Distance": 1.0436197519302368
+            }
+        ]
+    },
+    {
+        "Article ID": 129,
+        "Top Neighbors": [
+            {
+                "Article ID": 134,
+                "Distance": 0.4087774157524109
+            },
+            {
+                "Article ID": 132,
+                "Distance": 0.4883999824523926
+            },
+            {
+                "Article ID": 127,
+                "Distance": 0.5334999561309814
+            }
+        ]
+    },
+    {
+        "Article ID": 130,
+        "Top Neighbors": [
+            {
+                "Article ID": 125,
+                "Distance": 0.7068696022033691
+            },
+            {
+                "Article ID": 94,
+                "Distance": 0.7091754674911499
+            },
+            {
+                "Article ID": 93,
+                "Distance": 0.7847990989685059
+            }
+        ]
+    },
+    {
+        "Article ID": 131,
+        "Top Neighbors": [
+            {
+                "Article ID": 132,
+                "Distance": 0.4286385774612427
+            },
+            {
+                "Article ID": 175,
+                "Distance": 0.5395873785018921
+            },
+            {
+                "Article ID": 169,
+                "Distance": 0.5900942087173462
+            }
+        ]
+    },
+    {
+        "Article ID": 132,
+        "Top Neighbors": [
+            {
+                "Article ID": 131,
+                "Distance": 0.4286385774612427
+            },
+            {
+                "Article ID": 129,
+                "Distance": 0.4883999824523926
+            },
+            {
+                "Article ID": 117,
+                "Distance": 0.5233072638511658
+            }
+        ]
+    },
+    {
+        "Article ID": 133,
+        "Top Neighbors": [
+            {
+                "Article ID": 137,
+                "Distance": 0.3703300952911377
+            },
+            {
+                "Article ID": 127,
+                "Distance": 0.4953906536102295
+            },
+            {
+                "Article ID": 134,
+                "Distance": 0.5283783078193665
+            }
+        ]
+    },
+    {
+        "Article ID": 134,
+        "Top Neighbors": [
+            {
+                "Article ID": 129,
+                "Distance": 0.4087774157524109
+            },
+            {
+                "Article ID": 136,
+                "Distance": 0.45937663316726685
+            },
+            {
+                "Article ID": 133,
+                "Distance": 0.5283783078193665
+            }
+        ]
+    },
+    {
+        "Article ID": 135,
+        "Top Neighbors": [
+            {
+                "Article ID": 134,
+                "Distance": 0.5908381938934326
+            },
+            {
+                "Article ID": 127,
+                "Distance": 0.6054712533950806
+            },
+            {
+                "Article ID": 136,
+                "Distance": 0.6152447462081909
+            }
+        ]
+    },
+    {
+        "Article ID": 136,
+        "Top Neighbors": [
+            {
+                "Article ID": 134,
+                "Distance": 0.45937663316726685
+            },
+            {
+                "Article ID": 135,
+                "Distance": 0.6152447462081909
+            },
+            {
+                "Article ID": 133,
+                "Distance": 0.6300587058067322
+            }
+        ]
+    },
+    {
+        "Article ID": 137,
+        "Top Neighbors": [
+            {
+                "Article ID": 133,
+                "Distance": 0.3703300952911377
+            },
+            {
+                "Article ID": 134,
+                "Distance": 0.6676363348960876
+            },
+            {
+                "Article ID": 136,
+                "Distance": 0.6698799133300781
+            }
+        ]
+    },
+    {
+        "Article ID": 138,
+        "Top Neighbors": [
+            {
+                "Article ID": 75,
+                "Distance": 0.630189061164856
+            },
+            {
+                "Article ID": 134,
+                "Distance": 0.6665229201316833
+            },
+            {
+                "Article ID": 135,
+                "Distance": 0.7183753252029419
+            }
+        ]
+    },
+    {
+        "Article ID": 139,
+        "Top Neighbors": [
+            {
+                "Article ID": 127,
+                "Distance": 0.8875576853752136
+            },
+            {
+                "Article ID": 133,
+                "Distance": 0.932019054889679
+            },
+            {
+                "Article ID": 131,
+                "Distance": 0.9455828070640564
+            }
+        ]
+    },
+    {
+        "Article ID": 140,
+        "Top Neighbors": [
+            {
+                "Article ID": 104,
+                "Distance": 0.8045294880867004
+            },
+            {
+                "Article ID": 105,
+                "Distance": 0.8198233246803284
+            },
+            {
+                "Article ID": 137,
+                "Distance": 0.8453128337860107
+            }
+        ]
+    },
+    {
+        "Article ID": 141,
+        "Top Neighbors": [
+            {
+                "Article ID": 268,
+                "Distance": 0.7425619959831238
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.7635783553123474
+            },
+            {
+                "Article ID": 66,
+                "Distance": 0.7903939485549927
+            }
+        ]
+    },
+    {
+        "Article ID": 142,
+        "Top Neighbors": [
+            {
+                "Article ID": 268,
+                "Distance": 0.6019881963729858
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.8017608523368835
+            },
+            {
+                "Article ID": 23,
+                "Distance": 0.8078513741493225
+            }
+        ]
+    },
+    {
+        "Article ID": 143,
+        "Top Neighbors": [
+            {
+                "Article ID": 269,
+                "Distance": 0.5968892574310303
+            },
+            {
+                "Article ID": 266,
+                "Distance": 0.7889680862426758
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.8433800339698792
+            }
+        ]
+    },
+    {
+        "Article ID": 144,
+        "Top Neighbors": [
+            {
+                "Article ID": 269,
+                "Distance": 0.3872225880622864
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.48512187600135803
+            },
+            {
+                "Article ID": 146,
+                "Distance": 0.5216482877731323
+            }
+        ]
+    },
+    {
+        "Article ID": 145,
+        "Top Neighbors": [
+            {
+                "Article ID": 146,
+                "Distance": 0.38537299633026123
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.4548804759979248
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.5533888339996338
+            }
+        ]
+    },
+    {
+        "Article ID": 146,
+        "Top Neighbors": [
+            {
+                "Article ID": 145,
+                "Distance": 0.38537299633026123
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.4421810805797577
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.5216482877731323
+            }
+        ]
+    },
+    {
+        "Article ID": 147,
+        "Top Neighbors": [
+            {
+                "Article ID": 146,
+                "Distance": 0.5280903577804565
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.5595479607582092
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.5709583163261414
+            }
+        ]
+    },
+    {
+        "Article ID": 148,
+        "Top Neighbors": [
+            {
+                "Article ID": 271,
+                "Distance": 0.7301365733146667
+            },
+            {
+                "Article ID": 254,
+                "Distance": 0.8362035155296326
+            },
+            {
+                "Article ID": 69,
+                "Distance": 0.8475306034088135
+            }
+        ]
+    },
+    {
+        "Article ID": 149,
+        "Top Neighbors": [
+            {
+                "Article ID": 11,
+                "Distance": 0.7881760597229004
+            },
+            {
+                "Article ID": 196,
+                "Distance": 0.8187642693519592
+            },
+            {
+                "Article ID": 151,
+                "Distance": 0.837629497051239
+            }
+        ]
+    },
+    {
+        "Article ID": 150,
+        "Top Neighbors": [
+            {
+                "Article ID": 263,
+                "Distance": 0.8635515570640564
+            },
+            {
+                "Article ID": 5,
+                "Distance": 0.8723593950271606
+            },
+            {
+                "Article ID": 141,
+                "Distance": 0.9333889484405518
+            }
+        ]
+    },
+    {
+        "Article ID": 151,
+        "Top Neighbors": [
+            {
+                "Article ID": 275,
+                "Distance": 0.666861891746521
+            },
+            {
+                "Article ID": 279,
+                "Distance": 0.6670643091201782
+            },
+            {
+                "Article ID": 153,
+                "Distance": 0.7097678184509277
+            }
+        ]
+    },
+    {
+        "Article ID": 152,
+        "Top Neighbors": [
+            {
+                "Article ID": 273,
+                "Distance": 0.5129401087760925
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.5980812311172485
+            },
+            {
+                "Article ID": 42,
+                "Distance": 0.6475557684898376
+            }
+        ]
+    },
+    {
+        "Article ID": 153,
+        "Top Neighbors": [
+            {
+                "Article ID": 229,
+                "Distance": 0.6341527700424194
+            },
+            {
+                "Article ID": 152,
+                "Distance": 0.6616514325141907
+            },
+            {
+                "Article ID": 151,
+                "Distance": 0.7097678184509277
+            }
+        ]
+    },
+    {
+        "Article ID": 154,
+        "Top Neighbors": [
+            {
+                "Article ID": 274,
+                "Distance": 0.4628528654575348
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.7462342977523804
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.7568942904472351
+            }
+        ]
+    },
+    {
+        "Article ID": 155,
+        "Top Neighbors": [
+            {
+                "Article ID": 205,
+                "Distance": 0.5953069925308228
+            },
+            {
+                "Article ID": 152,
+                "Distance": 0.5980812311172485
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.6099764108657837
+            }
+        ]
+    },
+    {
+        "Article ID": 156,
+        "Top Neighbors": [
+            {
+                "Article ID": 14,
+                "Distance": 0.49507564306259155
+            },
+            {
+                "Article ID": 184,
+                "Distance": 0.5395106077194214
+            },
+            {
+                "Article ID": 267,
+                "Distance": 0.5571374893188477
+            }
+        ]
+    },
+    {
+        "Article ID": 157,
+        "Top Neighbors": [
+            {
+                "Article ID": 114,
+                "Distance": 0.5251424908638
+            },
+            {
+                "Article ID": 118,
+                "Distance": 0.5413259267807007
+            },
+            {
+                "Article ID": 167,
+                "Distance": 0.5699012875556946
+            }
+        ]
+    },
+    {
+        "Article ID": 158,
+        "Top Neighbors": [
+            {
+                "Article ID": 4,
+                "Distance": 0.48948875069618225
+            },
+            {
+                "Article ID": 159,
+                "Distance": 0.5986617803573608
+            },
+            {
+                "Article ID": 168,
+                "Distance": 0.736706018447876
+            }
+        ]
+    },
+    {
+        "Article ID": 159,
+        "Top Neighbors": [
+            {
+                "Article ID": 161,
+                "Distance": 0.5711814165115356
+            },
+            {
+                "Article ID": 158,
+                "Distance": 0.5986617803573608
+            },
+            {
+                "Article ID": 160,
+                "Distance": 0.6339167356491089
+            }
+        ]
+    },
+    {
+        "Article ID": 160,
+        "Top Neighbors": [
+            {
+                "Article ID": 167,
+                "Distance": 0.4801746606826782
+            },
+            {
+                "Article ID": 157,
+                "Distance": 0.5867345333099365
+            },
+            {
+                "Article ID": 120,
+                "Distance": 0.6036060452461243
+            }
+        ]
+    },
+    {
+        "Article ID": 161,
+        "Top Neighbors": [
+            {
+                "Article ID": 159,
+                "Distance": 0.5711814165115356
+            },
+            {
+                "Article ID": 167,
+                "Distance": 0.6064700484275818
+            },
+            {
+                "Article ID": 160,
+                "Distance": 0.6119050979614258
+            }
+        ]
+    },
+    {
+        "Article ID": 162,
+        "Top Neighbors": [
+            {
+                "Article ID": 74,
+                "Distance": 0.508183479309082
+            },
+            {
+                "Article ID": 163,
+                "Distance": 0.5597282648086548
+            },
+            {
+                "Article ID": 160,
+                "Distance": 0.6216909289360046
+            }
+        ]
+    },
+    {
+        "Article ID": 163,
+        "Top Neighbors": [
+            {
+                "Article ID": 162,
+                "Distance": 0.5597282648086548
+            },
+            {
+                "Article ID": 74,
+                "Distance": 0.585720419883728
+            },
+            {
+                "Article ID": 178,
+                "Distance": 0.5925135612487793
+            }
+        ]
+    },
+    {
+        "Article ID": 164,
+        "Top Neighbors": [
+            {
+                "Article ID": 79,
+                "Distance": 0.719824492931366
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.7517350316047668
+            },
+            {
+                "Article ID": 162,
+                "Distance": 0.8000770807266235
+            }
+        ]
+    },
+    {
+        "Article ID": 165,
+        "Top Neighbors": [
+            {
+                "Article ID": 55,
+                "Distance": 0.7441424131393433
+            },
+            {
+                "Article ID": 47,
+                "Distance": 0.8390869498252869
+            },
+            {
+                "Article ID": 161,
+                "Distance": 0.8550924062728882
+            }
+        ]
+    },
+    {
+        "Article ID": 166,
+        "Top Neighbors": [
+            {
+                "Article ID": 167,
+                "Distance": 0.634799599647522
+            },
+            {
+                "Article ID": 160,
+                "Distance": 0.6541901230812073
+            },
+            {
+                "Article ID": 159,
+                "Distance": 0.6578531265258789
+            }
+        ]
+    },
+    {
+        "Article ID": 167,
+        "Top Neighbors": [
+            {
+                "Article ID": 160,
+                "Distance": 0.4801746606826782
+            },
+            {
+                "Article ID": 157,
+                "Distance": 0.5699012875556946
+            },
+            {
+                "Article ID": 170,
+                "Distance": 0.5900010466575623
+            }
+        ]
+    },
+    {
+        "Article ID": 168,
+        "Top Neighbors": [
+            {
+                "Article ID": 175,
+                "Distance": 0.5690455436706543
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.5958699584007263
+            },
+            {
+                "Article ID": 169,
+                "Distance": 0.6016045808792114
+            }
+        ]
+    },
+    {
+        "Article ID": 169,
+        "Top Neighbors": [
+            {
+                "Article ID": 176,
+                "Distance": 0.4967442750930786
+            },
+            {
+                "Article ID": 73,
+                "Distance": 0.5361212491989136
+            },
+            {
+                "Article ID": 120,
+                "Distance": 0.5417335629463196
+            }
+        ]
+    },
+    {
+        "Article ID": 170,
+        "Top Neighbors": [
+            {
+                "Article ID": 167,
+                "Distance": 0.5900010466575623
+            },
+            {
+                "Article ID": 123,
+                "Distance": 0.6740418672561646
+            },
+            {
+                "Article ID": 161,
+                "Distance": 0.6973745822906494
+            }
+        ]
+    },
+    {
+        "Article ID": 171,
+        "Top Neighbors": [
+            {
+                "Article ID": 173,
+                "Distance": 0.39184361696243286
+            },
+            {
+                "Article ID": 175,
+                "Distance": 0.6217074394226074
+            },
+            {
+                "Article ID": 167,
+                "Distance": 0.6217265129089355
+            }
+        ]
+    },
+    {
+        "Article ID": 172,
+        "Top Neighbors": [
+            {
+                "Article ID": 126,
+                "Distance": 0.8379519581794739
+            },
+            {
+                "Article ID": 191,
+                "Distance": 0.9189484715461731
+            },
+            {
+                "Article ID": 265,
+                "Distance": 0.9282835125923157
+            }
+        ]
+    },
+    {
+        "Article ID": 173,
+        "Top Neighbors": [
+            {
+                "Article ID": 171,
+                "Distance": 0.39184361696243286
+            },
+            {
+                "Article ID": 175,
+                "Distance": 0.5043497085571289
+            },
+            {
+                "Article ID": 167,
+                "Distance": 0.632696807384491
+            }
+        ]
+    },
+    {
+        "Article ID": 174,
+        "Top Neighbors": [
+            {
+                "Article ID": 175,
+                "Distance": 0.45424729585647583
+            },
+            {
+                "Article ID": 82,
+                "Distance": 0.573136568069458
+            },
+            {
+                "Article ID": 73,
+                "Distance": 0.6186092495918274
+            }
+        ]
+    },
+    {
+        "Article ID": 175,
+        "Top Neighbors": [
+            {
+                "Article ID": 174,
+                "Distance": 0.45424729585647583
+            },
+            {
+                "Article ID": 73,
+                "Distance": 0.46916663646698
+            },
+            {
+                "Article ID": 173,
+                "Distance": 0.5043497085571289
+            }
+        ]
+    },
+    {
+        "Article ID": 176,
+        "Top Neighbors": [
+            {
+                "Article ID": 177,
+                "Distance": 0.4106687903404236
+            },
+            {
+                "Article ID": 192,
+                "Distance": 0.4964503347873688
+            },
+            {
+                "Article ID": 169,
+                "Distance": 0.4967442750930786
+            }
+        ]
+    },
+    {
+        "Article ID": 177,
+        "Top Neighbors": [
+            {
+                "Article ID": 176,
+                "Distance": 0.4106687903404236
+            },
+            {
+                "Article ID": 192,
+                "Distance": 0.6296918392181396
+            },
+            {
+                "Article ID": 109,
+                "Distance": 0.6447374820709229
+            }
+        ]
+    },
+    {
+        "Article ID": 178,
+        "Top Neighbors": [
+            {
+                "Article ID": 176,
+                "Distance": 0.5759652853012085
+            },
+            {
+                "Article ID": 163,
+                "Distance": 0.5925135612487793
+            },
+            {
+                "Article ID": 173,
+                "Distance": 0.7151222229003906
+            }
+        ]
+    },
+    {
+        "Article ID": 179,
+        "Top Neighbors": [
+            {
+                "Article ID": 277,
+                "Distance": 0.31229084730148315
+            },
+            {
+                "Article ID": 180,
+                "Distance": 0.6087163686752319
+            },
+            {
+                "Article ID": 278,
+                "Distance": 0.6393872499465942
+            }
+        ]
+    },
+    {
+        "Article ID": 180,
+        "Top Neighbors": [
+            {
+                "Article ID": 278,
+                "Distance": 0.5986970067024231
+            },
+            {
+                "Article ID": 179,
+                "Distance": 0.6087163686752319
+            },
+            {
+                "Article ID": 174,
+                "Distance": 0.6629313230514526
+            }
+        ]
+    },
+    {
+        "Article ID": 181,
+        "Top Neighbors": [
+            {
+                "Article ID": 42,
+                "Distance": 0.7404234409332275
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.793600857257843
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.8011409640312195
+            }
+        ]
+    },
+    {
+        "Article ID": 182,
+        "Top Neighbors": [
+            {
+                "Article ID": 279,
+                "Distance": 0.4343947768211365
+            },
+            {
+                "Article ID": 18,
+                "Distance": 0.46424710750579834
+            },
+            {
+                "Article ID": 232,
+                "Distance": 0.7743425369262695
+            }
+        ]
+    },
+    {
+        "Article ID": 183,
+        "Top Neighbors": [
+            {
+                "Article ID": 168,
+                "Distance": 0.6463126540184021
+            },
+            {
+                "Article ID": 176,
+                "Distance": 0.7179229855537415
+            },
+            {
+                "Article ID": 125,
+                "Distance": 0.730413556098938
+            }
+        ]
+    },
+    {
+        "Article ID": 184,
+        "Top Neighbors": [
+            {
+                "Article ID": 14,
+                "Distance": 0.428779274225235
+            },
+            {
+                "Article ID": 185,
+                "Distance": 0.472334086894989
+            },
+            {
+                "Article ID": 156,
+                "Distance": 0.5395106077194214
+            }
+        ]
+    },
+    {
+        "Article ID": 185,
+        "Top Neighbors": [
+            {
+                "Article ID": 184,
+                "Distance": 0.472334086894989
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.5791949033737183
+            },
+            {
+                "Article ID": 197,
+                "Distance": 0.5882230997085571
+            }
+        ]
+    },
+    {
+        "Article ID": 186,
+        "Top Neighbors": [
+            {
+                "Article ID": 267,
+                "Distance": 0.7627813816070557
+            },
+            {
+                "Article ID": 106,
+                "Distance": 0.8753401637077332
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.9081656336784363
+            }
+        ]
+    },
+    {
+        "Article ID": 187,
+        "Top Neighbors": [
+            {
+                "Article ID": 63,
+                "Distance": 0.4268045425415039
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.47364258766174316
+            },
+            {
+                "Article ID": 246,
+                "Distance": 0.5238136649131775
+            }
+        ]
+    },
+    {
+        "Article ID": 188,
+        "Top Neighbors": [
+            {
+                "Article ID": 219,
+                "Distance": 0.6223529577255249
+            },
+            {
+                "Article ID": 36,
+                "Distance": 0.6662195920944214
+            },
+            {
+                "Article ID": 221,
+                "Distance": 0.7046008706092834
+            }
+        ]
+    },
+    {
+        "Article ID": 189,
+        "Top Neighbors": [
+            {
+                "Article ID": 39,
+                "Distance": 0.535015344619751
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.6057833433151245
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.6141082048416138
+            }
+        ]
+    },
+    {
+        "Article ID": 190,
+        "Top Neighbors": [
+            {
+                "Article ID": 113,
+                "Distance": 0.45395922660827637
+            },
+            {
+                "Article ID": 120,
+                "Distance": 0.6281179189682007
+            },
+            {
+                "Article ID": 119,
+                "Distance": 0.6294636726379395
+            }
+        ]
+    },
+    {
+        "Article ID": 191,
+        "Top Neighbors": [
+            {
+                "Article ID": 257,
+                "Distance": 0.44130074977874756
+            },
+            {
+                "Article ID": 90,
+                "Distance": 0.4764845371246338
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.49639061093330383
+            }
+        ]
+    },
+    {
+        "Article ID": 192,
+        "Top Neighbors": [
+            {
+                "Article ID": 176,
+                "Distance": 0.4964503347873688
+            },
+            {
+                "Article ID": 177,
+                "Distance": 0.6296918392181396
+            },
+            {
+                "Article ID": 251,
+                "Distance": 0.8644030094146729
+            }
+        ]
+    },
+    {
+        "Article ID": 193,
+        "Top Neighbors": [
+            {
+                "Article ID": 234,
+                "Distance": 0.8210493326187134
+            },
+            {
+                "Article ID": 236,
+                "Distance": 0.9491739869117737
+            },
+            {
+                "Article ID": 264,
+                "Distance": 0.9650059938430786
+            }
+        ]
+    },
+    {
+        "Article ID": 194,
+        "Top Neighbors": [
+            {
+                "Article ID": 68,
+                "Distance": 0.5972850322723389
+            },
+            {
+                "Article ID": 39,
+                "Distance": 0.6160324811935425
+            },
+            {
+                "Article ID": 252,
+                "Distance": 0.6433051824569702
+            }
+        ]
+    },
+    {
+        "Article ID": 195,
+        "Top Neighbors": [
+            {
+                "Article ID": 184,
+                "Distance": 0.5513553023338318
+            },
+            {
+                "Article ID": 1,
+                "Distance": 0.6475432515144348
+            },
+            {
+                "Article ID": 199,
+                "Distance": 0.6561187505722046
+            }
+        ]
+    },
+    {
+        "Article ID": 196,
+        "Top Neighbors": [
+            {
+                "Article ID": 205,
+                "Distance": 0.5503087043762207
+            },
+            {
+                "Article ID": 23,
+                "Distance": 0.6695011854171753
+            },
+            {
+                "Article ID": 22,
+                "Distance": 0.7180724740028381
+            }
+        ]
+    },
+    {
+        "Article ID": 197,
+        "Top Neighbors": [
+            {
+                "Article ID": 185,
+                "Distance": 0.5882230997085571
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.5954129695892334
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.6042964458465576
+            }
+        ]
+    },
+    {
+        "Article ID": 198,
+        "Top Neighbors": [
+            {
+                "Article ID": 9,
+                "Distance": 0.4270436763763428
+            },
+            {
+                "Article ID": 56,
+                "Distance": 0.45466822385787964
+            },
+            {
+                "Article ID": 44,
+                "Distance": 0.7776519060134888
+            }
+        ]
+    },
+    {
+        "Article ID": 199,
+        "Top Neighbors": [
+            {
+                "Article ID": 195,
+                "Distance": 0.6561187505722046
+            },
+            {
+                "Article ID": 269,
+                "Distance": 0.6828426122665405
+            },
+            {
+                "Article ID": 131,
+                "Distance": 0.6916370391845703
+            }
+        ]
+    },
+    {
+        "Article ID": 200,
+        "Top Neighbors": [
+            {
+                "Article ID": 204,
+                "Distance": 0.5709786415100098
+            },
+            {
+                "Article ID": 206,
+                "Distance": 0.7127487063407898
+            },
+            {
+                "Article ID": 25,
+                "Distance": 0.7670700550079346
+            }
+        ]
+    },
+    {
+        "Article ID": 201,
+        "Top Neighbors": [
+            {
+                "Article ID": 205,
+                "Distance": 0.4798688292503357
+            },
+            {
+                "Article ID": 13,
+                "Distance": 0.58530193567276
+            },
+            {
+                "Article ID": 22,
+                "Distance": 0.6698625087738037
+            }
+        ]
+    },
+    {
+        "Article ID": 202,
+        "Top Neighbors": [
+            {
+                "Article ID": 203,
+                "Distance": 0.5300009846687317
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.6519700288772583
+            },
+            {
+                "Article ID": 17,
+                "Distance": 0.6566258668899536
+            }
+        ]
+    },
+    {
+        "Article ID": 203,
+        "Top Neighbors": [
+            {
+                "Article ID": 202,
+                "Distance": 0.5300009846687317
+            },
+            {
+                "Article ID": 267,
+                "Distance": 0.7041005492210388
+            },
+            {
+                "Article ID": 15,
+                "Distance": 0.7260081768035889
+            }
+        ]
+    },
+    {
+        "Article ID": 204,
+        "Top Neighbors": [
+            {
+                "Article ID": 200,
+                "Distance": 0.5709786415100098
+            },
+            {
+                "Article ID": 202,
+                "Distance": 0.7593217492103577
+            },
+            {
+                "Article ID": 30,
+                "Distance": 0.7654525637626648
+            }
+        ]
+    },
+    {
+        "Article ID": 205,
+        "Top Neighbors": [
+            {
+                "Article ID": 22,
+                "Distance": 0.4455587863922119
+            },
+            {
+                "Article ID": 201,
+                "Distance": 0.4798688292503357
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.49782875180244446
+            }
+        ]
+    },
+    {
+        "Article ID": 206,
+        "Top Neighbors": [
+            {
+                "Article ID": 25,
+                "Distance": 0.4954443871974945
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.585225522518158
+            },
+            {
+                "Article ID": 207,
+                "Distance": 0.6684219241142273
+            }
+        ]
+    },
+    {
+        "Article ID": 207,
+        "Top Neighbors": [
+            {
+                "Article ID": 31,
+                "Distance": 0.6673929691314697
+            },
+            {
+                "Article ID": 34,
+                "Distance": 0.6677273511886597
+            },
+            {
+                "Article ID": 206,
+                "Distance": 0.6684219241142273
+            }
+        ]
+    },
+    {
+        "Article ID": 208,
+        "Top Neighbors": [
+            {
+                "Article ID": 210,
+                "Distance": 0.4420837461948395
+            },
+            {
+                "Article ID": 122,
+                "Distance": 0.5913909673690796
+            },
+            {
+                "Article ID": 212,
+                "Distance": 0.7106336951255798
+            }
+        ]
+    },
+    {
+        "Article ID": 209,
+        "Top Neighbors": [
+            {
+                "Article ID": 215,
+                "Distance": 0.4673604369163513
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.6051010489463806
+            },
+            {
+                "Article ID": 217,
+                "Distance": 0.6193939447402954
+            }
+        ]
+    },
+    {
+        "Article ID": 210,
+        "Top Neighbors": [
+            {
+                "Article ID": 208,
+                "Distance": 0.4420837461948395
+            },
+            {
+                "Article ID": 31,
+                "Distance": 0.5155273675918579
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.5294808149337769
+            }
+        ]
+    },
+    {
+        "Article ID": 211,
+        "Top Neighbors": [
+            {
+                "Article ID": 225,
+                "Distance": 0.35966354608535767
+            },
+            {
+                "Article ID": 222,
+                "Distance": 0.45355817675590515
+            },
+            {
+                "Article ID": 31,
+                "Distance": 0.4946097433567047
+            }
+        ]
+    },
+    {
+        "Article ID": 212,
+        "Top Neighbors": [
+            {
+                "Article ID": 34,
+                "Distance": 0.20442774891853333
+            },
+            {
+                "Article ID": 228,
+                "Distance": 0.570002555847168
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.5981005430221558
+            }
+        ]
+    },
+    {
+        "Article ID": 213,
+        "Top Neighbors": [
+            {
+                "Article ID": 212,
+                "Distance": 0.6568208932876587
+            },
+            {
+                "Article ID": 215,
+                "Distance": 0.6582010984420776
+            },
+            {
+                "Article ID": 226,
+                "Distance": 0.6764708161354065
+            }
+        ]
+    },
+    {
+        "Article ID": 214,
+        "Top Neighbors": [
+            {
+                "Article ID": 33,
+                "Distance": 0.6081493496894836
+            },
+            {
+                "Article ID": 213,
+                "Distance": 0.7585519552230835
+            },
+            {
+                "Article ID": 209,
+                "Distance": 0.8549826145172119
+            }
+        ]
+    },
+    {
+        "Article ID": 215,
+        "Top Neighbors": [
+            {
+                "Article ID": 216,
+                "Distance": 0.4468385577201843
+            },
+            {
+                "Article ID": 209,
+                "Distance": 0.4673604369163513
+            },
+            {
+                "Article ID": 30,
+                "Distance": 0.5881302356719971
+            }
+        ]
+    },
+    {
+        "Article ID": 216,
+        "Top Neighbors": [
+            {
+                "Article ID": 215,
+                "Distance": 0.4468385577201843
+            },
+            {
+                "Article ID": 224,
+                "Distance": 0.5735824108123779
+            },
+            {
+                "Article ID": 39,
+                "Distance": 0.6364483833312988
+            }
+        ]
+    },
+    {
+        "Article ID": 217,
+        "Top Neighbors": [
+            {
+                "Article ID": 84,
+                "Distance": 0.5437511205673218
+            },
+            {
+                "Article ID": 219,
+                "Distance": 0.5713837146759033
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.573483943939209
+            }
+        ]
+    },
+    {
+        "Article ID": 218,
+        "Top Neighbors": [
+            {
+                "Article ID": 36,
+                "Distance": 0.3791641891002655
+            },
+            {
+                "Article ID": 219,
+                "Distance": 0.5431220531463623
+            },
+            {
+                "Article ID": 35,
+                "Distance": 0.5807647705078125
+            }
+        ]
+    },
+    {
+        "Article ID": 219,
+        "Top Neighbors": [
+            {
+                "Article ID": 36,
+                "Distance": 0.35611575841903687
+            },
+            {
+                "Article ID": 220,
+                "Distance": 0.3994797468185425
+            },
+            {
+                "Article ID": 221,
+                "Distance": 0.455676794052124
+            }
+        ]
+    },
+    {
+        "Article ID": 220,
+        "Top Neighbors": [
+            {
+                "Article ID": 219,
+                "Distance": 0.3994797468185425
+            },
+            {
+                "Article ID": 218,
+                "Distance": 0.6179622411727905
+            },
+            {
+                "Article ID": 221,
+                "Distance": 0.6297709345817566
+            }
+        ]
+    },
+    {
+        "Article ID": 221,
+        "Top Neighbors": [
+            {
+                "Article ID": 219,
+                "Distance": 0.455676794052124
+            },
+            {
+                "Article ID": 35,
+                "Distance": 0.6088440418243408
+            },
+            {
+                "Article ID": 222,
+                "Distance": 0.6242349147796631
+            }
+        ]
+    },
+    {
+        "Article ID": 222,
+        "Top Neighbors": [
+            {
+                "Article ID": 224,
+                "Distance": 0.39407217502593994
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.45355817675590515
+            },
+            {
+                "Article ID": 219,
+                "Distance": 0.4610646963119507
+            }
+        ]
+    },
+    {
+        "Article ID": 223,
+        "Top Neighbors": [
+            {
+                "Article ID": 222,
+                "Distance": 0.46255940198898315
+            },
+            {
+                "Article ID": 219,
+                "Distance": 0.532278299331665
+            },
+            {
+                "Article ID": 79,
+                "Distance": 0.5783544182777405
+            }
+        ]
+    },
+    {
+        "Article ID": 224,
+        "Top Neighbors": [
+            {
+                "Article ID": 222,
+                "Distance": 0.39407217502593994
+            },
+            {
+                "Article ID": 37,
+                "Distance": 0.40414881706237793
+            },
+            {
+                "Article ID": 227,
+                "Distance": 0.5303427577018738
+            }
+        ]
+    },
+    {
+        "Article ID": 225,
+        "Top Neighbors": [
+            {
+                "Article ID": 211,
+                "Distance": 0.35966354608535767
+            },
+            {
+                "Article ID": 224,
+                "Distance": 0.6033062934875488
+            },
+            {
+                "Article ID": 33,
+                "Distance": 0.6110494136810303
+            }
+        ]
+    },
+    {
+        "Article ID": 226,
+        "Top Neighbors": [
+            {
+                "Article ID": 215,
+                "Distance": 0.6143084764480591
+            },
+            {
+                "Article ID": 209,
+                "Distance": 0.6758167743682861
+            },
+            {
+                "Article ID": 213,
+                "Distance": 0.6764708161354065
+            }
+        ]
+    },
+    {
+        "Article ID": 227,
+        "Top Neighbors": [
+            {
+                "Article ID": 224,
+                "Distance": 0.5303427577018738
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.6334677338600159
+            },
+            {
+                "Article ID": 220,
+                "Distance": 0.6486324667930603
+            }
+        ]
+    },
+    {
+        "Article ID": 228,
+        "Top Neighbors": [
+            {
+                "Article ID": 229,
+                "Distance": 0.5366170406341553
+            },
+            {
+                "Article ID": 212,
+                "Distance": 0.570002555847168
+            },
+            {
+                "Article ID": 39,
+                "Distance": 0.5960166454315186
+            }
+        ]
+    },
+    {
+        "Article ID": 229,
+        "Top Neighbors": [
+            {
+                "Article ID": 41,
+                "Distance": 0.4021231234073639
+            },
+            {
+                "Article ID": 228,
+                "Distance": 0.5366170406341553
+            },
+            {
+                "Article ID": 231,
+                "Distance": 0.5420545339584351
+            }
+        ]
+    },
+    {
+        "Article ID": 230,
+        "Top Neighbors": [
+            {
+                "Article ID": 42,
+                "Distance": 0.32844823598861694
+            },
+            {
+                "Article ID": 264,
+                "Distance": 0.5997838377952576
+            },
+            {
+                "Article ID": 197,
+                "Distance": 0.6277682781219482
+            }
+        ]
+    },
+    {
+        "Article ID": 231,
+        "Top Neighbors": [
+            {
+                "Article ID": 232,
+                "Distance": 0.1390954554080963
+            },
+            {
+                "Article ID": 229,
+                "Distance": 0.5420545339584351
+            },
+            {
+                "Article ID": 228,
+                "Distance": 0.6765056848526001
+            }
+        ]
+    },
+    {
+        "Article ID": 232,
+        "Top Neighbors": [
+            {
+                "Article ID": 231,
+                "Distance": 0.1390954554080963
+            },
+            {
+                "Article ID": 233,
+                "Distance": 0.6250567436218262
+            },
+            {
+                "Article ID": 48,
+                "Distance": 0.6263665556907654
+            }
+        ]
+    },
+    {
+        "Article ID": 233,
+        "Top Neighbors": [
+            {
+                "Article ID": 232,
+                "Distance": 0.6250567436218262
+            },
+            {
+                "Article ID": 234,
+                "Distance": 0.6698235273361206
+            },
+            {
+                "Article ID": 231,
+                "Distance": 0.6986594200134277
+            }
+        ]
+    },
+    {
+        "Article ID": 234,
+        "Top Neighbors": [
+            {
+                "Article ID": 233,
+                "Distance": 0.6698235273361206
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.6887582540512085
+            },
+            {
+                "Article ID": 211,
+                "Distance": 0.7056702971458435
+            }
+        ]
+    },
+    {
+        "Article ID": 235,
+        "Top Neighbors": [
+            {
+                "Article ID": 43,
+                "Distance": 0.6062804460525513
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.6328957080841064
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.664177656173706
+            }
+        ]
+    },
+    {
+        "Article ID": 236,
+        "Top Neighbors": [
+            {
+                "Article ID": 234,
+                "Distance": 0.8609669208526611
+            },
+            {
+                "Article ID": 191,
+                "Distance": 0.9331109523773193
+            },
+            {
+                "Article ID": 193,
+                "Distance": 0.9491739869117737
+            }
+        ]
+    },
+    {
+        "Article ID": 237,
+        "Top Neighbors": [
+            {
+                "Article ID": 238,
+                "Distance": 0.4904828667640686
+            },
+            {
+                "Article ID": 51,
+                "Distance": 0.49212217330932617
+            },
+            {
+                "Article ID": 48,
+                "Distance": 0.5188875794410706
+            }
+        ]
+    },
+    {
+        "Article ID": 238,
+        "Top Neighbors": [
+            {
+                "Article ID": 237,
+                "Distance": 0.4904828667640686
+            },
+            {
+                "Article ID": 239,
+                "Distance": 0.5375643968582153
+            },
+            {
+                "Article ID": 48,
+                "Distance": 0.5969281196594238
+            }
+        ]
+    },
+    {
+        "Article ID": 239,
+        "Top Neighbors": [
+            {
+                "Article ID": 51,
+                "Distance": 0.36522284150123596
+            },
+            {
+                "Article ID": 238,
+                "Distance": 0.5375643968582153
+            },
+            {
+                "Article ID": 237,
+                "Distance": 0.5477156043052673
+            }
+        ]
+    },
+    {
+        "Article ID": 240,
+        "Top Neighbors": [
+            {
+                "Article ID": 48,
+                "Distance": 0.5009405612945557
+            },
+            {
+                "Article ID": 241,
+                "Distance": 0.656591534614563
+            },
+            {
+                "Article ID": 49,
+                "Distance": 0.6833070516586304
+            }
+        ]
+    },
+    {
+        "Article ID": 241,
+        "Top Neighbors": [
+            {
+                "Article ID": 237,
+                "Distance": 0.611981213092804
+            },
+            {
+                "Article ID": 48,
+                "Distance": 0.6399170756340027
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.6495276093482971
+            }
+        ]
+    },
+    {
+        "Article ID": 242,
+        "Top Neighbors": [
+            {
+                "Article ID": 248,
+                "Distance": 0.519451916217804
+            },
+            {
+                "Article ID": 247,
+                "Distance": 0.5535496473312378
+            },
+            {
+                "Article ID": 63,
+                "Distance": 0.5884978771209717
+            }
+        ]
+    },
+    {
+        "Article ID": 243,
+        "Top Neighbors": [
+            {
+                "Article ID": 61,
+                "Distance": 0.6529759168624878
+            },
+            {
+                "Article ID": 246,
+                "Distance": 0.6902512311935425
+            },
+            {
+                "Article ID": 244,
+                "Distance": 0.7262634038925171
+            }
+        ]
+    },
+    {
+        "Article ID": 244,
+        "Top Neighbors": [
+            {
+                "Article ID": 243,
+                "Distance": 0.7262634038925171
+            },
+            {
+                "Article ID": 61,
+                "Distance": 0.7801719903945923
+            },
+            {
+                "Article ID": 245,
+                "Distance": 0.8291721940040588
+            }
+        ]
+    },
+    {
+        "Article ID": 245,
+        "Top Neighbors": [
+            {
+                "Article ID": 252,
+                "Distance": 0.7517710328102112
+            },
+            {
+                "Article ID": 61,
+                "Distance": 0.7694060802459717
+            },
+            {
+                "Article ID": 12,
+                "Distance": 0.7857885360717773
+            }
+        ]
+    },
+    {
+        "Article ID": 246,
+        "Top Neighbors": [
+            {
+                "Article ID": 251,
+                "Distance": 0.5195276737213135
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.5238136649131775
+            },
+            {
+                "Article ID": 57,
+                "Distance": 0.5272790193557739
+            }
+        ]
+    },
+    {
+        "Article ID": 247,
+        "Top Neighbors": [
+            {
+                "Article ID": 62,
+                "Distance": 0.45804697275161743
+            },
+            {
+                "Article ID": 68,
+                "Distance": 0.46723267436027527
+            },
+            {
+                "Article ID": 248,
+                "Distance": 0.5340970754623413
+            }
+        ]
+    },
+    {
+        "Article ID": 248,
+        "Top Neighbors": [
+            {
+                "Article ID": 68,
+                "Distance": 0.44693225622177124
+            },
+            {
+                "Article ID": 67,
+                "Distance": 0.4674451947212219
+            },
+            {
+                "Article ID": 63,
+                "Distance": 0.5175204277038574
+            }
+        ]
+    },
+    {
+        "Article ID": 249,
+        "Top Neighbors": [
+            {
+                "Article ID": 253,
+                "Distance": 0.595818042755127
+            },
+            {
+                "Article ID": 251,
+                "Distance": 0.6281704902648926
+            },
+            {
+                "Article ID": 67,
+                "Distance": 0.6838806867599487
+            }
+        ]
+    },
+    {
+        "Article ID": 250,
+        "Top Neighbors": [
+            {
+                "Article ID": 246,
+                "Distance": 0.5520205497741699
+            },
+            {
+                "Article ID": 253,
+                "Distance": 0.5596870183944702
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.5850647687911987
+            }
+        ]
+    },
+    {
+        "Article ID": 251,
+        "Top Neighbors": [
+            {
+                "Article ID": 246,
+                "Distance": 0.5195276737213135
+            },
+            {
+                "Article ID": 187,
+                "Distance": 0.5594233870506287
+            },
+            {
+                "Article ID": 67,
+                "Distance": 0.577150821685791
+            }
+        ]
+    },
+    {
+        "Article ID": 252,
+        "Top Neighbors": [
+            {
+                "Article ID": 68,
+                "Distance": 0.3096584677696228
+            },
+            {
+                "Article ID": 248,
+                "Distance": 0.5887845158576965
+            },
+            {
+                "Article ID": 39,
+                "Distance": 0.5986466407775879
+            }
+        ]
+    },
+    {
+        "Article ID": 253,
+        "Top Neighbors": [
+            {
+                "Article ID": 254,
+                "Distance": 0.4536054730415344
+            },
+            {
+                "Article ID": 250,
+                "Distance": 0.5596870183944702
+            },
+            {
+                "Article ID": 249,
+                "Distance": 0.595818042755127
+            }
+        ]
+    },
+    {
+        "Article ID": 254,
+        "Top Neighbors": [
+            {
+                "Article ID": 253,
+                "Distance": 0.4536054730415344
+            },
+            {
+                "Article ID": 69,
+                "Distance": 0.5777450203895569
+            },
+            {
+                "Article ID": 249,
+                "Distance": 0.6840833425521851
+            }
+        ]
+    },
+    {
+        "Article ID": 255,
+        "Top Neighbors": [
+            {
+                "Article ID": 262,
+                "Distance": 0.7980316877365112
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.8026934862136841
+            },
+            {
+                "Article ID": 253,
+                "Distance": 0.8444497585296631
+            }
+        ]
+    },
+    {
+        "Article ID": 256,
+        "Top Neighbors": [
+            {
+                "Article ID": 84,
+                "Distance": 0.35028427839279175
+            },
+            {
+                "Article ID": 79,
+                "Distance": 0.45241737365722656
+            },
+            {
+                "Article ID": 85,
+                "Distance": 0.4553064703941345
+            }
+        ]
+    },
+    {
+        "Article ID": 257,
+        "Top Neighbors": [
+            {
+                "Article ID": 90,
+                "Distance": 0.2924306392669678
+            },
+            {
+                "Article ID": 88,
+                "Distance": 0.39993005990982056
+            },
+            {
+                "Article ID": 91,
+                "Distance": 0.41271746158599854
+            }
+        ]
+    },
+    {
+        "Article ID": 258,
+        "Top Neighbors": [
+            {
+                "Article ID": 94,
+                "Distance": 0.5883783102035522
+            },
+            {
+                "Article ID": 93,
+                "Distance": 0.650182843208313
+            },
+            {
+                "Article ID": 265,
+                "Distance": 0.717753529548645
+            }
+        ]
+    },
+    {
+        "Article ID": 259,
+        "Top Neighbors": [
+            {
+                "Article ID": 95,
+                "Distance": 0.46641209721565247
+            },
+            {
+                "Article ID": 256,
+                "Distance": 0.5819332599639893
+            },
+            {
+                "Article ID": 253,
+                "Distance": 0.7085570096969604
+            }
+        ]
+    },
+    {
+        "Article ID": 260,
+        "Top Neighbors": [
+            {
+                "Article ID": 77,
+                "Distance": 0.7780649662017822
+            },
+            {
+                "Article ID": 262,
+                "Distance": 0.8016674518585205
+            },
+            {
+                "Article ID": 153,
+                "Distance": 0.8231325745582581
+            }
+        ]
+    },
+    {
+        "Article ID": 261,
+        "Top Neighbors": [
+            {
+                "Article ID": 112,
+                "Distance": 0.6443811655044556
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.7632467150688171
+            },
+            {
+                "Article ID": 230,
+                "Distance": 0.7868049144744873
+            }
+        ]
+    },
+    {
+        "Article ID": 262,
+        "Top Neighbors": [
+            {
+                "Article ID": 256,
+                "Distance": 0.4822998642921448
+            },
+            {
+                "Article ID": 85,
+                "Distance": 0.5730760097503662
+            },
+            {
+                "Article ID": 84,
+                "Distance": 0.5884822607040405
+            }
+        ]
+    },
+    {
+        "Article ID": 263,
+        "Top Neighbors": [
+            {
+                "Article ID": 96,
+                "Distance": 0.44389474391937256
+            },
+            {
+                "Article ID": 230,
+                "Distance": 0.6833384037017822
+            },
+            {
+                "Article ID": 195,
+                "Distance": 0.701958417892456
+            }
+        ]
+    },
+    {
+        "Article ID": 264,
+        "Top Neighbors": [
+            {
+                "Article ID": 230,
+                "Distance": 0.5997838377952576
+            },
+            {
+                "Article ID": 253,
+                "Distance": 0.611843466758728
+            },
+            {
+                "Article ID": 42,
+                "Distance": 0.6357235908508301
+            }
+        ]
+    },
+    {
+        "Article ID": 265,
+        "Top Neighbors": [
+            {
+                "Article ID": 120,
+                "Distance": 0.48768651485443115
+            },
+            {
+                "Article ID": 119,
+                "Distance": 0.5688257217407227
+            },
+            {
+                "Article ID": 127,
+                "Distance": 0.571016788482666
+            }
+        ]
+    },
+    {
+        "Article ID": 266,
+        "Top Neighbors": [
+            {
+                "Article ID": 147,
+                "Distance": 0.6342791318893433
+            },
+            {
+                "Article ID": 269,
+                "Distance": 0.7609413862228394
+            },
+            {
+                "Article ID": 143,
+                "Distance": 0.7889680862426758
+            }
+        ]
+    },
+    {
+        "Article ID": 267,
+        "Top Neighbors": [
+            {
+                "Article ID": 156,
+                "Distance": 0.5571374893188477
+            },
+            {
+                "Article ID": 203,
+                "Distance": 0.7041005492210388
+            },
+            {
+                "Article ID": 14,
+                "Distance": 0.7163985967636108
+            }
+        ]
+    },
+    {
+        "Article ID": 268,
+        "Top Neighbors": [
+            {
+                "Article ID": 142,
+                "Distance": 0.6019881963729858
+            },
+            {
+                "Article ID": 141,
+                "Distance": 0.7425619959831238
+            },
+            {
+                "Article ID": 34,
+                "Distance": 0.7660561203956604
+            }
+        ]
+    },
+    {
+        "Article ID": 269,
+        "Top Neighbors": [
+            {
+                "Article ID": 144,
+                "Distance": 0.3872225880622864
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.5729677677154541
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.5951883792877197
+            }
+        ]
+    },
+    {
+        "Article ID": 270,
+        "Top Neighbors": [
+            {
+                "Article ID": 146,
+                "Distance": 0.4421810805797577
+            },
+            {
+                "Article ID": 145,
+                "Distance": 0.4548804759979248
+            },
+            {
+                "Article ID": 144,
+                "Distance": 0.48512187600135803
+            }
+        ]
+    },
+    {
+        "Article ID": 271,
+        "Top Neighbors": [
+            {
+                "Article ID": 148,
+                "Distance": 0.7301365733146667
+            },
+            {
+                "Article ID": 197,
+                "Distance": 0.9654241800308228
+            },
+            {
+                "Article ID": 270,
+                "Distance": 0.9732778072357178
+            }
+        ]
+    },
+    {
+        "Article ID": 272,
+        "Top Neighbors": [
+            {
+                "Article ID": 197,
+                "Distance": 0.7433436512947083
+            },
+            {
+                "Article ID": 24,
+                "Distance": 0.7476648092269897
+            },
+            {
+                "Article ID": 230,
+                "Distance": 0.7523677945137024
+            }
+        ]
+    },
+    {
+        "Article ID": 273,
+        "Top Neighbors": [
+            {
+                "Article ID": 152,
+                "Distance": 0.5129401087760925
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.6559314131736755
+            },
+            {
+                "Article ID": 205,
+                "Distance": 0.6655954122543335
+            }
+        ]
+    },
+    {
+        "Article ID": 274,
+        "Top Neighbors": [
+            {
+                "Article ID": 154,
+                "Distance": 0.4628528654575348
+            },
+            {
+                "Article ID": 151,
+                "Distance": 0.7838619351387024
+            },
+            {
+                "Article ID": 275,
+                "Distance": 0.8222266435623169
+            }
+        ]
+    },
+    {
+        "Article ID": 275,
+        "Top Neighbors": [
+            {
+                "Article ID": 151,
+                "Distance": 0.666861891746521
+            },
+            {
+                "Article ID": 155,
+                "Distance": 0.7065595388412476
+            },
+            {
+                "Article ID": 48,
+                "Distance": 0.814009428024292
+            }
+        ]
+    },
+    {
+        "Article ID": 276,
+        "Top Neighbors": [
+            {
+                "Article ID": 265,
+                "Distance": 0.5837192535400391
+            },
+            {
+                "Article ID": 120,
+                "Distance": 0.6125490665435791
+            },
+            {
+                "Article ID": 253,
+                "Distance": 0.6199677586555481
+            }
+        ]
+    },
+    {
+        "Article ID": 277,
+        "Top Neighbors": [
+            {
+                "Article ID": 179,
+                "Distance": 0.31229084730148315
+            },
+            {
+                "Article ID": 278,
+                "Distance": 0.6366585493087769
+            },
+            {
+                "Article ID": 180,
+                "Distance": 0.7004267573356628
+            }
+        ]
+    },
+    {
+        "Article ID": 278,
+        "Top Neighbors": [
+            {
+                "Article ID": 180,
+                "Distance": 0.5986970067024231
+            },
+            {
+                "Article ID": 277,
+                "Distance": 0.6366585493087769
+            },
+            {
+                "Article ID": 179,
+                "Distance": 0.6393872499465942
+            }
+        ]
+    },
+    {
+        "Article ID": 279,
+        "Top Neighbors": [
+            {
+                "Article ID": 182,
+                "Distance": 0.4343947768211365
+            },
+            {
+                "Article ID": 18,
+                "Distance": 0.4703357219696045
+            },
+            {
+                "Article ID": 151,
+                "Distance": 0.6670643091201782
+            }
+        ]
+    },
+    {
+        "Article ID": 280,
+        "Top Neighbors": [
+            {
+                "Article ID": 281,
+                "Distance": 0.5702179670333862
+            },
+            {
+                "Article ID": 83,
+                "Distance": 0.5812138319015503
+            },
+            {
+                "Article ID": 94,
+                "Distance": 0.616618275642395
+            }
+        ]
+    },
+    {
+        "Article ID": 281,
+        "Top Neighbors": [
+            {
+                "Article ID": 280,
+                "Distance": 0.5702179670333862
+            },
+            {
+                "Article ID": 83,
+                "Distance": 0.700751543045044
+            },
+            {
+                "Article ID": 82,
+                "Distance": 0.7266559600830078
+            }
+        ]
+    }
+]

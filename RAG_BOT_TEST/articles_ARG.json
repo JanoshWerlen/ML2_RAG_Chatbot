@@ -1,0 +1,436 @@
+[
+    {
+        "article_number": "Art. 1",
+        "title": "Betrieblicher und persönlicher Geltungsbereich",
+        "text": "1 Das Gesetz ist, unter Vorbehalt der Artikel 2–4, anwendbar auf alle öffentlichen und privaten Betriebe.\n2 Ein Betrieb im Sinne des Gesetzes liegt vor, wenn ein Arbeitgeber dauernd oder vorübergehend einen oder mehrere Arbeitnehmer beschäftigt, unabhängig davon, ob bestimmte Einrichtungen oder Anlagen vorhanden sind. Wenn die Voraussetzungen für die Anwendbarkeit des Gesetzes nur für einzelne Teile eines Betriebes gegeben sind, ist das Gesetz nur auf diese anwendbar.\n3 Auf Arbeitnehmer, welche ein im Auslande gelegener Betrieb in der Schweiz beschäftigt, ist das Gesetz anwendbar, soweit dies nach den Umständen möglich ist.",
+        "metadata": {
+            "type": "Geltungsbereich",
+            "tags": [
+                "öffentliche Betriebe",
+                "private Betriebe",
+                "Arbeitgeber",
+                "Arbeitnehmer",
+                "Schweiz"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 2",
+        "title": "Ausnahmen vom betrieblichen Geltungsbereich",
+        "text": "1 Das Gesetz ist, unter Vorbehalt von Artikel 3a, nicht anwendbar:\na. auf Verwaltungen des Bundes, der Kantone und Gemeinden, unter Vorbehalt von Absatz 2;\nb. auf Betriebe oder Teile von Betrieben, die der Bundesgesetzgebung über die Arbeit in Unternehmen des öffentlichen Verkehrs unterstehen;\nc. auf Betriebe, die der Bundesgesetzgebung über die Seeschifffahrt unter der Schweizerflagge unterstehen;\nd. auf Betriebe der landwirtschaftlichen Urproduktion, mit Einschluss von Nebenbetrieben, in denen überwiegend die Erzeugnisse des Hauptbetriebes verarbeitet oder verwertet werden, sowie auf örtliche Milchsammelstellen und die damit verbundenen Milchverarbeitungsbetriebe;\ne. auf Betriebe mit überwiegend gärtnerischer Pflanzenproduktion, unter Vorbehalt von Absatz 3;\nf. auf Fischereibetriebe;\ng. auf private Haushaltungen.\n2 Die öffentlichen Anstalten, die den Verwaltungen des Bundes, der Kantone und der Gemeinden gleichzustellen sind, sowie die Betriebe des Bundes, der Kantone und der Gemeinden, auf die das Gesetz anwendbar ist, werden durch Verordnung bezeichnet.\n3 Auf Betriebe mit überwiegend gärtnerischer Pflanzenproduktion, die Lehrlinge ausbilden, können einzelne Bestimmungen des Gesetzes durch Verordnung anwendbar erklärt werden, soweit dies zum Schutze der Lehrlinge erforderlich ist.\n4 Die Bestimmungen des Gesetzes und seiner Verordnungen über das Mindestalter sind anwendbar auf Betriebe im Sinne von Absatz 1 Buchstaben d–g.",
+        "metadata": {
+            "type": "Geltungsbereich",
+            "tags": [
+                "Verwaltungen",
+                "Bund",
+                "Kantone",
+                "Gemeinden",
+                "Verkehrsunternehmen",
+                "Seeschifffahrt",
+                "landwirtschaftliche Urproduktion",
+                "Milchsammelstellen",
+                "gärtnerische Pflanzenproduktion",
+                "Fischereibetriebe",
+                "private Haushaltungen"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 3",
+        "title": "Ausnahmen vom persönlichen Geltungsbereich",
+        "text": "Das Gesetz ist, unter Vorbehalt von Artikel 3a, ferner nicht anwendbar:\na. auf Personen geistlichen Standes und andere Personen, die im Dienste von Kirchen stehen, sowie auf Angehörige von Ordens- und Mutterhäusern oder anderer religiöser Gemeinschaften;\nb. auf das in der Schweiz wohnhafte Personal öffentlicher Verwaltungen ausländischer Staaten oder internationaler Organisationen;\nc. auf die Besatzungen von schweizerischen Flugbetriebsunternehmen;\nd. auf Arbeitnehmer, die eine höhere leitende Tätigkeit oder eine wissenschaftliche oder selbständige künstlerische Tätigkeit ausüben;\ne. auf Lehrer an Privatschulen sowie auf Lehrer, Fürsorger, Erzieher und Aufseher in Anstalten;\nf. auf Heimarbeitnehmer;\ng. auf Handelsreisende im Sinne der Bundesgesetzgebung;\nh. auf Arbeitnehmer, die dem Abkommen vom 21. Mai 1954 über die Arbeitsbedingungen der Rheinschiffer unterstehen.",
+        "metadata": {
+            "type": "Geltungsbereich",
+            "tags": [
+                "Personen geistlichen Standes",
+                "Kirchen",
+                "Ordenshäuser",
+                "Mutterhäuser",
+                "religiöse Gemeinschaften",
+                "Verwaltungen ausländischer Staaten",
+                "internationale Organisationen",
+                "Flugbetriebsunternehmen",
+                "leitende Tätigkeit",
+                "wissenschaftliche Tätigkeit",
+                "künstlerische Tätigkeit",
+                "Privatschulen",
+                "Heimarbeitnehmer",
+                "Handelsreisende",
+                "Rheinschiffer"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 3a",
+        "title": "Vorschriften über den Gesundheits￾schutz",
+        "text": "Die Vorschriften dieses Gesetzes über den Gesundheitsschutz (Art. 6, 35 und 36a) sind jedoch anwendbar:\na. auf die Verwaltungen des Bundes, der Kantone und Gemeinden;\nb. auf Arbeitnehmer, die eine höhere leitende Tätigkeit oder eine wissenschaftliche oder selbstständige künstlerische Tätigkeit ausüben;\nc. auf Lehrer an Privatschulen sowie Lehrer, Fürsorger, Erzieher und Aufseher in Anstalten.",
+        "metadata": {
+            "type": "Geltungsbereich",
+            "tags": [
+                "Gesundheitsschutz",
+                "Verwaltungen",
+                "Bund",
+                "Kantone",
+                "Gemeinden",
+                "leitende Tätigkeit",
+                "wissenschaftliche Tätigkeit",
+                "künstlerische Tätigkeit",
+                "Privatschulen"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 4",
+        "title": "",
+        "text": "1 Das Gesetz ist nicht anwendbar auf Betriebe, in denen lediglich der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner des Betriebsinhabers, seine Verwandten in auf- und absteigender Linie und deren Ehegatten, eingetragene Partnerinnen oder Partner sowie seine Stiefkinder tätig sind.\n2 Sind im Betrieb auch andere als die in Absatz 1 erwähnten Personen tätig, so ist das Gesetz nur auf diese anwendbar.\n3 Auf jugendliche Familienglieder im Sinne von Absatz 1 können einzelne Vorschriften des Gesetzes durch Verordnung anwendbar erklärt werden, soweit dies zum Schutze von Leben und Gesundheit der Jugendlichen oder zur Wahrung der Sittlichkeit erforderlich ist.",
+        "metadata": {
+            "type": "Geltungsbereich",
+            "tags": [
+                "Ehegatte",
+                "Partner",
+                "Verwandte",
+                "Stiefkinder",
+                "jugendliche Familienglieder"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 5",
+        "title": "",
+        "text": "1 Die besonderen Vorschriften des Gesetzes für industrielle Betriebe sind auf den einzelnen Betrieb oder auf einzelne Betriebsteile nur anwendbar aufgrund einer Unterstellungsverfügung der kantonalen Behörde.\n2 Als industrielle Betriebe im Sinne des Gesetzes gelten Betriebe mit fester Anlage von dauerndem Charakter für die Herstellung, Verarbeitung oder Behandlung von Gütern oder für die Erzeugung, Umwandlung oder Übertragung von Energie, sofern\na. die Arbeitsweise oder die Arbeitsorganisation durch Maschinen oder andere technische Einrichtungen oder durch serienmässige Verrichtungen bestimmt werden und für die Herstellung, Verarbeitung oder Behandlung von Gütern oder für die Erzeugung, Umwandlung oder Übertragung von Energie wenigstens sechs Arbeitnehmer beschäftigt werden, oder\nb. die Arbeitsweise oder die Arbeitsorganisation wesentlich durch automatisierte Verfahren bestimmt werden, oder\nc. Leben oder Gesundheit der Arbeitnehmer besonderen Gefahren ausgesetzt sind.",
+        "metadata": {
+            "type": "Geltungsbereich",
+            "tags": [
+                "industrielle Betriebe",
+                "Herstellung",
+                "Verarbeitung",
+                "Behandlung von Gütern",
+                "Erzeugung von Energie",
+                "Umwandlung von Energie",
+                "Übertragung von Energie",
+                "Maschinen",
+                "technische Einrichtungen",
+                "serienmässige Verrichtungen",
+                "automatisierte Verfahren",
+                "Gefahren für Arbeitnehmer"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 6",
+        "title": "",
+        "text": "1 Der Arbeitgeber ist verpflichtet, zum Schutze der Gesundheit der Arbeitnehmer alle Massnahmen zu treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes angemessen sind. Er hat im Weiteren die erforderlichen Massnahmen zum Schutze der persönlichen Integrität der Arbeitnehmer vorzusehen.\n2 Der Arbeitgeber hat insbesondere die betrieblichen Einrichtungen und den Arbeitsablauf so zu gestalten, dass Gesundheitsgefährdungen und Überbeanspruchungen der Arbeitnehmer nach Möglichkeit vermieden werden.\n2bis Der Arbeitgeber hat dafür zu sorgen, dass der Arbeitnehmer in Ausübung seiner beruflichen Tätigkeit keinen Alkohol oder andere berauschende Mittel konsumieren muss. Der Bundesrat regelt die Ausnahmen.\n3 Für den Gesundheitsschutz hat der Arbeitgeber die Arbeitnehmer zur Mitwirkung heranzuziehen. Diese sind verpflichtet, den Arbeitgeber in der Durchführung der Vorschriften über den Gesundheitsschutz zu unterstützen.\n4 Durch Verordnung wird bestimmt, welche Massnahmen für den Gesundheitsschutz in den Betrieben zu treffen sind.",
+        "metadata": {
+            "type": "Gesundheitsschutz und Plangenehmigung",
+            "tags": [
+                "Gesundheitsschutz",
+                "Arbeitgeber",
+                "Arbeitnehmer",
+                "betriebliche Einrichtungen",
+                "Arbeitsablauf",
+                "Alkohol",
+                "berauschende Mittel",
+                "Bundesrat",
+                "Verordnung"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 7",
+        "title": "",
+        "text": "1 Wer einen industriellen Betrieb errichten oder umgestalten will, muss bei der kantonalen Behörde um die Genehmigung der geplanten Anlage nachsuchen. Diese holt den Bericht der Schweizerischen Unfallversicherungsanstalt ein. Die im Bericht ausdrücklich als Weisungen bezeichneten Anträge werden von der kantonalen Behörde als Auflagen in die Plangenehmigung aufgenommen.\n2 Entspricht die geplante Anlage den Vorschriften, so genehmigt die kantonale Behörde die Pläne, nötigenfalls mit der Auflage, dass besondere Schutzmassnahmen zu treffen sind.\n3 Vor der Aufnahme der betrieblichen Tätigkeit muss der Arbeitgeber bei der kantonalen Behörde um die Betriebsbewilligung nachsuchen. Die kantonale Behörde erteilt die Betriebsbewilligung, wenn Bau und Einrichtungen des Betriebes der Plangenehmigung entsprechen.\n4 Ist für die Errichtung oder Umgestaltung eines Betriebs die Genehmigung einer Bundesbehörde erforderlich, so erteilt diese auch die Plangenehmigung im Verfahren nach Absatz 1. Auf Berichte und Mitberichte sind die Artikel 62a und 62b des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 anwendbar.",
+        "metadata": {
+            "type": "Gesundheitsschutz und Plangenehmigung",
+            "tags": [
+                "industrieller Betrieb",
+                "kantonale Behörde",
+                "Schweizerische Unfallversicherungsanstalt",
+                "Weisungen",
+                "Plangenehmigung",
+                "Schutzmassnahmen",
+                "Betriebsbewilligung",
+                "Bundesbehörde",
+                "Regierungs- und Verwaltungsorganisationsgesetz"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 8",
+        "title": "",
+        "text": "Der Bundesrat kann Artikel 7 auf nichtindustrielle Betriebe mit erheblichen Betriebsgefahren anwendbar erklären. Die einzelnen Betriebsarten werden durch Verordnung bestimmt.",
+        "metadata": {
+            "type": "Gesundheitsschutz und Plangenehmigung",
+            "tags": [
+                "Bundesrat",
+                "nichtindustrielle Betriebe",
+                "Betriebsgefahren",
+                "Artikel 7",
+                "Verordnung"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 9",
+        "title": "",
+        "text": "1 Die wöchentliche Höchstarbeitszeit beträgt:\na. 45 Stunden für Arbeitnehmer in industriellen Betrieben sowie für Büropersonal, technische und andere Angestellte, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels;\nb. 50 Stunden für alle übrigen Arbeitnehmer\n2 Für bestimmte Gruppen von Betrieben oder Arbeitnehmern kann die wöchentliche Höchstarbeitszeit durch Verordnung zeitweise um höchstens vier Stunden verlängert werden, sofern sie im Jahresdurchschnitt nicht überschritten wird.\n3 Eine Verlängerung der wöchentlichen Höchstarbeitszeit um höchstens vier Stunden kann vom Staatssekretariat für Wirtschaft (SECO) für bestimmte Gruppen von Betrieben oder Arbeitnehmern oder für bestimmte Betriebe bewilligt werden, sofern und solange zwingende Gründe dies rechtfertigen.\n4 Auf Büropersonal, technische und andere Angestellte, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels, die im gleichen Betrieb oder Betriebsteil zusammen mit Arbeitnehmern beschäftigt werden, für die eine längere wöchentliche Höchstarbeitszeit gilt, ist diese ebenfalls anwendbar.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "wöchentliche Höchstarbeitszeit",
+                "industrielle Betriebe",
+                "Büropersonal",
+                "technische Angestellte",
+                "Verkaufspersonal",
+                "Detailhandel",
+                "SECO"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 10",
+        "title": "",
+        "text": "1 Die Arbeit von 6 Uhr bis 20 Uhr gilt als Tagesarbeit, die Arbeit von 20 Uhr bis 23 Uhr ist Abendarbeit. Tages- und Abendarbeit sind bewilligungsfrei. Abendarbeit kann vom Arbeitgeber nach Anhörung der Arbeitnehmervertretung im Betrieb oder, wo eine solche nicht besteht, der betroffenen Arbeitnehmer eingeführt werden.\n2 Beginn und Ende der betrieblichen Tages- und Abendarbeit können zwischen 5 Uhr und 24 Uhr anders festgelegt werden, wenn die Arbeitnehmervertretung im Betrieb oder, wo eine solche nicht besteht, die Mehrheit der betroffenen Arbeitnehmer dem zustimmt. Die betriebliche Tages- und Abendarbeit beträgt auch in diesem Falle höchstens 17 Stunden.\n3 Die Tages- und Abendarbeit des einzelnen Arbeitnehmers muss mit Einschluss der Pausen und der Überzeit innerhalb von 14 Stunden liegen.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Tagesarbeit",
+                "Abendarbeit",
+                "bewilligungsfrei",
+                "Arbeitnehmervertretung",
+                "betriebliche Arbeitszeit",
+                "Pausen",
+                "Überzeit"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 11",
+        "title": "",
+        "text": "Wird die Arbeit wegen Betriebsstörungen, wegen Betriebsferien, zwischen arbeitsfreien Tagen oder unter ähnlichen Umständen für verhältnismässig kurze Zeit ausgesetzt oder werden einem Arbeitnehmer auf seinen Wunsch arbeitsfreie Tage eingeräumt, so darf der Arbeitgeber innert eines angemessenen Zeitraumes einen entsprechenden Ausgleich in Abweichung von der wöchentlichen Höchstarbeitszeit anordnen. Der Ausgleich für den einzelnen Arbeitnehmer darf, mit Einschluss von Überzeitarbeit, zwei Stunden im Tag nicht überschreiten, ausser an arbeitsfreien Tagen oder Halbtagen.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Betriebsstörungen",
+                "Betriebsferien",
+                "arbeitsfreie Tage",
+                "wöchentliche Höchstarbeitszeit",
+                "Ausgleich"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 12",
+        "title": "",
+        "text": "1 Die wöchentliche Höchstarbeitszeit darf ausnahmsweise überschritten werden\na. wegen Dringlichkeit der Arbeit oder ausserordentlichen Arbeitsandranges;\nb. für Inventaraufnahmen, Rechnungsabschlüsse und Liquidationsarbeiten;\nc. zur Vermeidung oder Beseitigung von Betriebsstörungen, soweit dem Arbeitgeber nicht andere Vorkehren zugemutet werden können.\n2 Die Überzeit darf für den einzelnen Arbeitnehmer zwei Stunden im Tag nicht überschreiten, ausser an arbeitsfreien Werktagen oder in Notfällen, und im Kalenderjahr insgesamt nicht mehr betragen als:\na. 170 Stunden für Arbeitnehmer mit einer wöchentlichen Höchstarbeitszeit von 45 Stunden;\nb. 140 Stunden für Arbeitnehmer mit einer wöchentlichen Höchstarbeitszeit von 50 Stunden.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "wöchentliche Höchstarbeitszeit",
+                "Dringlichkeit der Arbeit",
+                "Inventaraufnahmen",
+                "Rechnungsabschlüsse",
+                "Liquidationsarbeiten",
+                "Betriebsstörungen",
+                "Überzeit",
+                "arbeitsfreie Werktage",
+                "Notfälle"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 13",
+        "title": "",
+        "text": "1 Der Arbeitgeber hat den Arbeitnehmern für die Überzeitarbeit einen Lohnzuschlag von wenigstens 25 Prozent auszurichten, dem Büropersonal sowie den technischen und andern Angestellten, mit Einschluss des Verkaufspersonals in Grossbetrieben des Detailhandels, jedoch nur für Überzeitarbeit, die 60 Stunden im Kalenderjahr übersteigt.\n2 Wird Überzeitarbeit im Einverständnis mit dem einzelnen Arbeitnehmer innert eines angemessenen Zeitraums durch Freizeit von gleicher Dauer ausgeglichen, so ist kein Zuschlag auszurichten.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Überzeitarbeit",
+                "Lohnzuschlag",
+                "Büropersonal",
+                "technische Angestellte",
+                "Verkaufspersonal",
+                "Detailhandel",
+                "Freizeit"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 15",
+        "title": "",
+        "text": "1 Die Arbeit ist durch Pausen von folgender Mindestdauer zu unterbrechen:\na. eine Viertelstunde bei einer täglichen Arbeitszeit von mehr als fünfeinhalb Stunden;\nb. eine halbe Stunde bei einer täglichen Arbeitszeit von mehr als sieben Stunden;\nc. eine Stunde bei einer täglichen Arbeitszeit von mehr als neun Stunden.\n2 Die Pausen gelten als Arbeitszeit, wenn die Arbeitnehmer ihren Arbeitsplatz nicht verlassen dürfen.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Pausen",
+                "Arbeitszeit",
+                "tägliche Arbeitszeit"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 15a",
+        "title": "",
+        "text": "1 Den Arbeitnehmern ist eine tägliche Ruhezeit von mindestens elf aufeinander folgenden Stunden zu gewähren.\n2 Die Ruhezeit kann für erwachsene Arbeitnehmer einmal in der Woche bis auf acht Stunden herabgesetzt werden, sofern die Dauer von elf Stunden im Durchschnitt von zwei Wochen eingehalten wird.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Ruhezeit",
+                "tägliche Ruhezeit",
+                "erwachsene Arbeitnehmer"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 16",
+        "title": "",
+        "text": "Die Beschäftigung von Arbeitnehmern ausserhalb der betrieblichen Tages- und Abendarbeit nach Artikel 10 (Nachtarbeit) ist untersagt. Vorbehalten bleibt Artikel 17.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "Tagesarbeit",
+                "Abendarbeit",
+                "Beschäftigung"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 17",
+        "title": "",
+        "text": "1 Ausnahmen vom Verbot der Nachtarbeit bedürfen der Bewilligung.\n2 Dauernde oder regelmässig wiederkehrende Nachtarbeit wird bewilligt, sofern sie aus technischen oder wirtschaftlichen Gründen unentbehrlich ist.\n3 Vorübergehende Nachtarbeit wird bewilligt, sofern ein dringendes Bedürfnis nachgewiesen wird.\n4 Nachtarbeit zwischen 5 Uhr und 6 Uhr sowie zwischen 23 Uhr und 24 Uhr wird bewilligt, sofern ein dringendes Bedürfnis nachgewiesen wird.\n5 Dauernde oder regelmässig wiederkehrende Nachtarbeit wird vom SECO, vorübergehende Nachtarbeit von der kantonalen Behörde bewilligt.\n6 Der Arbeitgeber darf den Arbeitnehmer ohne dessen Einverständnis nicht zu Nachtarbeit heranziehen.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "Bewilligung",
+                "technische Gründe",
+                "wirtschaftliche Gründe",
+                "dringendes Bedürfnis",
+                "SECO",
+                "kantonale Behörde"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 17a",
+        "title": "",
+        "text": "1 Bei Nachtarbeit darf die tägliche Arbeitszeit für den einzelnen Arbeitnehmer neun Stunden nicht überschreiten; sie muss, mit Einschluss der Pausen, innerhalb eines Zeitraumes von zehn Stunden liegen.\n2 Wird der Arbeitnehmer in höchstens drei von sieben aufeinander folgenden Nächten beschäftigt, so darf die tägliche Arbeitszeit unter den Voraussetzungen, welche durch Verordnung festzulegen sind, zehn Stunden betragen; sie muss aber, mit Einschluss der Pausen, innerhalb eines Zeitraumes von zwölf Stunden liegen.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "tägliche Arbeitszeit",
+                "Pausen"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 17b",
+        "title": "",
+        "text": "1 Dem Arbeitnehmer, der nur vorübergehend Nachtarbeit verrichtet, hat der Arbeitgeber einen Lohnzuschlag von mindestens 25 Prozent zu bezahlen.\n2 Arbeitnehmer, die dauernd oder regelmässig wiederkehrend Nachtarbeit leisten, haben Anspruch auf eine Kompensation von 10 Prozent der Zeit, während der sie Nachtarbeit geleistet haben. Die Ausgleichsruhezeit ist innerhalb eines Jahres zu gewähren. Für Arbeitnehmer, die regelmässig abends oder morgens höchstens eine Randstunde in der Nachtzeit arbeiten, kann der Ausgleich auch als Lohnzuschlag gewährt werden.\n3 Die Ausgleichsruhezeit gemäss Absatz 2 ist nicht zu gewähren, wenn:\na. die durchschnittliche betriebliche Schichtdauer einschliesslich der Pausen sieben Stunden nicht überschreitet, oder\nb. die Person, die Nachtarbeit leistet, nur in vier Nächten pro Woche (Vier-Tage-Woche) beschäftigt wird, oder\nc. den Arbeitnehmern durch Gesamtarbeitsvertrag oder die analoge Anwendung öffentlich-rechtlicher Vorschriften andere gleichwertige Ausgleichsruhezeiten innerhalb eines Jahres gewährt werden.\n4 Ausgleichsregelungen nach Absatz 3 Buchstabe c sind dem SECO zur Beurteilung vorzulegen; dieses stellt die Gleichwertigkeit mit der gesetzlichen Ausgleichsruhezeit nach Absatz 2 fest.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "Lohnzuschlag",
+                "Kompensation",
+                "Ausgleichsruhezeit",
+                "SECO"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 17c",
+        "title": "",
+        "text": "1 Der Arbeitnehmer, der über längere Zeit Nachtarbeit verrichtet, hat Anspruch auf eine Untersuchung seines Gesundheitszustandes sowie darauf, sich beraten zu lassen, wie die mit seiner Arbeit verbundenen Gesundheitsprobleme vermindert oder vermieden werden können.\n2 Die Einzelheiten werden durch Verordnung geregelt. Für bestimmte Gruppen von Arbeitnehmern kann die medizinische Untersuchung obligatorisch erklärt werden.\n3 Die Kosten der medizinischen Untersuchung und der Beratung trägt der Arbeitgeber, soweit nicht die Krankenkasse oder ein anderer Versicherer des Arbeitnehmers dafür aufkommt.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "Gesundheitszustand",
+                "medizinische Untersuchung",
+                "Beratung",
+                "Verordnung",
+                "Krankenkasse"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 17d",
+        "title": "",
+        "text": "Der Arbeitgeber hat den Arbeitnehmer, der aus gesundheitlichen Gründen zur Nachtarbeit untauglich erklärt wird, nach Möglichkeit zu einer ähnlichen Tagesarbeit zu versetzen, zu der er tauglich ist.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "gesundheitliche Gründe",
+                "Tagesarbeit",
+                "Versetzung"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    },
+    {
+        "article_number": "Art. 17e",
+        "title": "",
+        "text": "1 Soweit nach den Umständen erforderlich ist der Arbeitgeber, der regelmässig Arbeitnehmer in der Nacht beschäftigt, verpflichtet, weitere geeignete Massnahmen zum Schutz der Arbeitnehmer vorzusehen, namentlich im Hinblick auf die Sicherheit des Arbeitsweges, die Organisation des Transportes, die Ruhegelegenheiten und Verpflegungsmöglichkeiten sowie die Kinderbetreuung.\n2 Die Bewilligungsbehörden können die Arbeitszeitbewilligungen mit entsprechenden Auflagen verbinden.",
+        "metadata": {
+            "type": "Arbeits- und Ruhezeit",
+            "tags": [
+                "Nachtarbeit",
+                "Schutzmassnahmen",
+                "Sicherheit",
+                "Transport",
+                "Ruhegelegenheiten",
+                "Verpflegungsmöglichkeiten",
+                "Kinderbetreuung",
+                "Bewilligungsbehörden"
+            ],
+            "created_at": "2024-05-21T11:00:00Z",
+            "Gesetzestext": "ARG"
+        }
+    }
+]
