@@ -311,14 +311,22 @@ def get_user_input():
     return message
 
 def decide_continue():
+    print("\nDeciding Followup")
     while True:
         print("\nWillst du eine Folgefrage stellen? (Ja, Nein)\n")
         user_input = get_user_input().strip().lower()
-        if user_input in ['ja', 'nein']:
-            return 'followup' if user_input == 'ja' else 'newquestion'
-        else:
-            print("Ungültige Eingabe. Bitte antworte mit 'Ja' oder 'Nein'.")
-
+        prompt = f"Given the following user message, decide what action should be taken. The options are: followup, followup_with_question, newquestion. Choose 'followup' if the user-response indicates a positive sentiment to the Question 'Willst du eine Folgefrage stellen?', If the user response contains already a question, decide 'followup_with_question'. Choose 'newquestion' if the user does not want to ask a followup question. \n\nUser message: {user_input}\n\nAction:"
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": f"{prompt}"},
+            ],
+            max_tokens=10,
+            stop=['\n']
+        )
+        print("\nFollowup decision: ")
+        print(response.choices[0].message.content)
+        return response.choices[0].message.content, user_input
 
         
 def start_convo():
@@ -368,7 +376,7 @@ def user_interaction(user_id, inquired_infos):
             elif action == "perform_rag_request":
                 reply, filtered_articles = perform_rag_request(str(inquired_infos[-1]), filter_values, additional_context)
                 print("Bot:", reply)
-                followup_action = decide_continue()
+                followup_action, user_input = decide_continue()
                 if followup_action == "followup":
                     print("Bitte gebe deine Folgefrage ein:")
                     followup_message = input("You: ").strip()
@@ -376,6 +384,10 @@ def user_interaction(user_id, inquired_infos):
                     print("\nNew info for followup\n")
                     additional_context = reply  # Update additional context with the latest RAG response
                     continue  # Continue the inner loop for follow-up questions
+                elif followup_action == "followup_with_question":
+                    inquired_infos.append(user_input)
+                    print("\nNew info for followup\n")
+                    additional_context = reply  # Update additional context with the latest RAG response
                 elif followup_action == "newquestion":
                     break  # Exit the inner loop to start a new question
             elif action == "inquire_more_information":
